@@ -1,5 +1,6 @@
 # Presentation Recording - (AB0403) Decision Making with Programming and Data Analytics
 Python project
+Anaconda
 
 # 1. Background of company:
 Travel on Bike Pte Ltd is a distributor of bicycles and motor vehicles. It has five main products namely: Amarilla, Carretera, Montana, Paseo, Velo, and VTT. It sells the products to five main segments: Change Partners, Enterprise, Government, Mid-Market and Small business and its products are in demand in five major countries (Canada, France, Germany, Mexico, United States of America).
