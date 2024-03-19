@@ -1,0 +1,1016 @@
+﻿ Month Name ,Year,Segment,Country, Product , Discount Band ,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts, Sales,COGS,Profit
+ January ,2022,Government,Canada, Carretera , None ,1456,3,20,29120,0,29120,14560,14560
+ January ,2022,Government,Germany, Carretera , None ,1162,3,20,23240,0,23240,11620,11620
+ January ,2022,Government,Mexico, Velo , None ,1433,120,7,10031,0,10031,7165,2866
+ January ,2022,Government,France, Paseo , Low ,3668,10,7,25676,276.15,25399.85,18326.0101,7073.839899
+ January ,2022,Small Business,France, Paseo , Low ,2264,10,300,679200,21910.5,657289.5,564681.701,92607.79897
+ January ,2022,Channel Partners,Germany, VTT , Low ,2107,250,12,25284,892.44,24391.56,6286.484536,18105.07546
+ January ,2022,Government,Canada, Paseo , Low ,4208,10,7,29456,1190.28,28265.72,21031.04167,7234.678333
+ January ,2022,Government,Germany, Paseo , Medium ,1330,10,7,9310,480.2,8829.8,6638.947368,2190.852632
+ January ,2022,Government,France, Montana , Medium ,1370,5,350,479500,24228.75,455271.25,356001.5789,99269.67105
+ January ,2022,Midmarket,United States of America, Velo , Medium ,499,120,15,7485,416.25,7068.75,4960.526316,2108.223684
+ January ,2022,Midmarket,Mexico, Velo , Medium ,2603,120,15,39045,2145.75,36899.25,25894.21053,11005.03947
+ January ,2022,Government,United States of America, Carretera , Medium ,961,3,20,19220,1341,17879,9510.106383,8368.893617
+ January ,2022,Enterprise,France, Amarilla , Medium ,1888,260,125,236000,14906.25,221093.75,225797.8723,-4704.12234
+ January ,2022,Channel Partners,Mexico, Montana , Medium ,2176,5,12,26112,1965.6,24146.4,6490.967742,17655.43226
+ January ,2022,Channel Partners,Canada, VTT , Medium ,2887,250,12,34644,2725.38,31918.62,8580.274194,23338.34581
+ January ,2022,Small Business,Mexico, Paseo , Medium ,2462,10,300,738600,69255,669345,612953.2967,56391.7033
+ January ,2022,Government,Mexico, Paseo , Medium ,2296,10,350,803600,76135.5,727464.5,593848.5714,133615.9286
+ January ,2022,Channel Partners,United States of America, VTT , Medium ,1819,250,12,21828,2112.48,19715.52,5416.351648,14299.16835
+ January ,2022,Midmarket,Germany, Velo , High ,674,120,15,10110,1021.5,9088.5,6732.222222,2356.277778
+ January ,2022,Enterprise,United States of America, Amarilla , High ,573,260,125,71625,7237.5,64387.5,68680,-4292.5
+ January ,2022,Midmarket,Canada, Velo , High ,364,120,15,5460,633.6,4826.4,3615.280899,1211.119101
+ January ,2022,Government,Germany, Montana , High ,712,5,350,249200,29491,219709,183384.7191,36324.2809
+ January ,2022,Small Business,Canada, Paseo , High ,742,10,300,222600,28809,193791,181452.2472,12338.75281
+ January ,2022,Channel Partners,France, VTT , High ,1681,250,12,20172,2288.88,17883.12,5023.348315,12859.77169
+ January ,2022,Enterprise,Mexico, VTT , High ,493,250,125,61625,7617.5,54007.5,58255.2809,-4247.780899
+ January ,2022,Enterprise,Germany, Amarilla , High ,2975,260,125,371875,43518.75,328356.25,354182.0225,-25825.77247
+ January ,2022,Government,Mexico, Amarilla , High ,2339,260,20,46780,5783.8,40996.2,23031.57303,17964.62697
+ January ,2022,Small Business,United States of America, Paseo , High ,3390,10,300,1017000,125820,891180,843920.4545,47259.54545
+ January ,2022,Government,France, Carretera , High ,2344,3,20,46880,6051.6,40828.4,23197.95455,17630.44545
+ January ,2022,Government,United States of America, Montana , High ,972,5,350,340200,44703.75,295496.25,252312.069,43184.18103
+ January ,2022,Government,United States of America, Paseo , High ,1352,10,7,9464,1309.035,8154.965,6695.373563,1459.591437
+ January ,2022,Small Business,Germany, Paseo , High ,807,10,300,242100,31473,210627,201750,8877
+ January ,2022,Midmarket,France, Velo , High ,3397,120,15,50955,7795.125,43159.875,33072.70115,10087.17385
+ January ,2022,Enterprise,Canada, Amarilla , High ,1542,260,125,192750,26958.75,165791.25,182942.069,-17150.81897
+ January ,2022,Government,Canada, Montana , High ,2182,5,350,763700,109147.5,654552.5,565394.186,89158.31395
+ February ,2022,Government,Canada, Paseo , None ,277,10,20,5540,0,5540,2770,2770
+ February ,2022,Midmarket,Mexico, Paseo , None ,876,10,15,13140,0,13140,8760,4380
+ February ,2022,Enterprise,France, Velo , None ,1785,120,125,223125,0,223125,214200,8925
+ February ,2022,Small Business,Canada, VTT , None ,1820,250,300,546000,0,546000,455000,91000
+ February ,2022,Government,France, Amarilla , None ,2502,260,350,875700,0,875700,650520,225180
+ February ,2022,Midmarket,France, Paseo , Low ,2135,10,15,32025,344.4,31680.6,21333.73737,10346.86263
+ February ,2022,Channel Partners,United States of America, Carretera , Low ,1709,3,12,20508,222.96,20285.04,5122.484848,15162.55515
+ February ,2022,Midmarket,United States of America, Paseo , Low ,1438,10,15,21570,227.1,21342.9,14372.32323,6970.576768
+ February ,2022,Midmarket,Canada, Paseo , Low ,2008,10,15,30120,708.9,29411.1,20007.55102,9403.54898
+ February ,2022,Government,Germany, Montana , Low ,1723,5,7,12061,411.18,11649.82,8578.659794,3071.160206
+ February ,2022,Small Business,United States of America, VTT , Low ,2502,250,300,750600,25596,725004,622855.6701,102148.3299
+ February ,2022,Government,Mexico, Amarilla , Low ,1697,260,350,593950,26110,567840,439400,128440
+ February ,2022,Channel Partners,France, Carretera , Medium ,1809,3,12,21708,1119,20589,5418.157895,15170.84211
+ February ,2022,Channel Partners,Germany, Carretera , Medium ,1004,3,12,12048,669.6,11378.4,2994.315789,8384.084211
+ February ,2022,Government,France, Paseo , Medium ,1133,10,20,22660,1303,21357,11240.52632,10116.47368
+ February ,2022,Enterprise,Germany, Velo , Medium ,750,120,125,93750,5043.75,88706.25,89640,-933.75
+ February ,2022,Government,Germany, Amarilla , Medium ,1350,260,350,472500,23625,448875,351000,97875
+ February ,2022,Enterprise,Canada, Velo , Medium ,828,120,125,103500,7140,96360,98410.21277,-2050.212766
+ February ,2022,Enterprise,United States of America, Velo , Medium ,2341,120,125,292625,20662.5,271962.5,277748.9362,-5786.43617
+ February ,2022,Channel Partners,Mexico, Carretera , Medium ,712,3,12,8544,610.68,7933.32,2132.612903,5800.707097
+ February ,2022,Small Business,France, VTT , Medium ,815,250,300,244500,20229,224271,200959.6774,23311.32258
+ February ,2022,Small Business,Mexico, VTT , Medium ,2609,250,300,782700,57687,725013,649653.2258,75359.77419
+ February ,2022,Government,Canada, Montana , Medium ,429,5,7,3003,273.28,2729.72,2119.347826,610.3721739
+ February ,2022,Small Business,Germany, VTT , Medium ,2313,250,300,693900,71793,622107,569695.0549,52411.94505
+ February ,2022,Government,Canada, Amarilla , High ,2083,260,350,729050,78400,650650,537044.4444,113605.5556
+ February ,2022,Channel Partners,Canada, Carretera , High ,1762,3,12,21144,2556.84,18587.16,5221.11236,13366.04764
+ February ,2022,Government,United States of America, Amarilla , High ,267,260,350,93450,11340,82110,69313.63636,12796.36364
+ February ,2022,Government,United States of America, Montana , High ,1233,5,7,8631,1181.18,7449.82,6116.436782,1333.383218
+ February ,2022,Government,United States of America, Paseo , High ,2324,10,20,46480,6866.6,39613.4,22766.32184,16847.07816
+ February ,2022,Government,Germany, Paseo , High ,2653,10,20,53060,7040.8,46019.2,26447.81609,19571.38391
+ February ,2022,Government,France, Montana , High ,284,5,7,1988,287.14,1700.86,1412.674419,288.1855814
+ February ,2022,Midmarket,Germany, Paseo , High ,239,10,15,3585,583.8,3001.2,2326.511628,674.6883721
+ February ,2022,Government,Mexico, Paseo , High ,226,10,20,4520,728,3792,2204.651163,1587.348837
+ February ,2022,Enterprise,Mexico, Velo , High ,1527,120,125,190875,27562.5,163312.5,182302.3256,-18989.82558
+ February ,2022,Government,Mexico, Montana , High ,1217,5,7,8519,1436.4,7082.6,5951.764706,1130.835294
+ March ,2022,Midmarket,Germany, Montana , None ,792,5,15,11880,0,11880,7920,3960
+ March ,2022,Channel Partners,Germany, Velo , None ,2139,120,12,25668,0,25668,6417,19251
+ March ,2022,Government,Canada, VTT , Low ,1312,250,7,9184,92.82,9091.18,6559.292929,2531.887071
+ March ,2022,Government,Mexico, Carretera , Low ,1125,3,350,393750,4235,389515,292276.7677,97238.23232
+ March ,2022,Midmarket,Mexico, Montana , Low ,2191,5,15,32865,332.1,32532.9,21907.67677,10625.22323
+ March ,2022,Government,Germany, VTT , Low ,263,250,7,1841,18.41,1822.59,1315,507.59
+ March ,2022,Small Business,Germany, Amarilla , Low ,248,260,300,74400,1554,72846,61943.87755,10902.12245
+ March ,2022,Small Business,Mexico, Amarilla , Low ,957,260,300,287100,6606,280494,238515.3061,41978.69388
+ March ,2022,Enterprise,Canada, Paseo , Low ,1561,10,125,195125,6652.5,188472.5,186529.4845,1943.015464
+ March ,2022,Midmarket,Canada, Montana , Low ,1770,5,15,26550,1180.2,25369.8,17617.91667,7751.883333
+ March ,2022,Enterprise,Germany, Paseo , Low ,747,10,125,93375,3975,89400,89400,0
+ March ,2022,Channel Partners,United States of America, Velo , Low ,1318,120,12,15816,703.2,15112.8,3935.625,11177.175
+ March ,2022,Enterprise,United States of America, Paseo , Medium ,2902,10,125,362750,18700,344050,347671.5789,-3621.578947
+ March ,2022,Enterprise,France, Paseo , Medium ,2122,10,125,265250,14906.25,250343.75,252978.9474,-2635.197368
+ March ,2022,Government,United States of America, Carretera , Medium ,1567,3,350,548450,43144.5,505305.5,403623.4409,101682.0591
+ March ,2022,Midmarket,France, Montana , Medium ,2450,5,15,36750,3001.2,33748.8,24455.65217,9293.147826
+ March ,2022,Enterprise,Mexico, Paseo , Medium ,1013,10,125,126625,11140,115485,120506.087,-5021.086957
+ March ,2022,Channel Partners,Canada, Velo , Medium ,580,120,12,6960,574.08,6385.92,1735.304348,4650.615652
+ March ,2022,Government,United States of America, Paseo , Medium ,875,10,20,17500,1751.4,15748.6,8653.076923,7095.523077
+ March ,2022,Channel Partners,France, Velo , Medium ,1927,120,12,23124,2124.36,20999.64,5769.131868,15230.50813
+ March ,2022,Government,France, Paseo , High ,1856,10,20,37120,3908,33212,18451.11111,14760.88889
+ March ,2022,Small Business,United States of America, Amarilla , High ,2813,260,300,843900,89790,754110,698250,55860
+ March ,2022,Government,United States of America, VTT , High ,1563,250,7,10941,1215.83,9725.17,7805.11236,1920.05764
+ March ,2022,Government,Germany, Carretera , High ,673,3,350,235550,30492,205058,171155.9551,33902.04494
+ March ,2022,Government,Mexico, Paseo , High ,987,10,20,19740,2468.4,17271.6,9703.146067,7568.453933
+ March ,2022,Midmarket,United States of America, Montana , High ,595,5,15,8925,1218.6,7706.4,5838.181818,1868.218182
+ March ,2022,Government,France, VTT , High ,1371,250,7,9597,1252.44,8344.56,6773.181818,1571.378182
+ March ,2022,Government,Canada, Carretera , High ,784,3,350,274400,41996.5,232403.5,198439.7701,33963.72989
+ March ,2022,Government,France, Carretera , High ,1521,3,350,532350,81445,450905,385009.1954,65895.8046
+ March ,2022,Government,Canada, Paseo , High ,2088,10,20,41760,6798.4,34961.6,20326.51163,14635.08837
+ March ,2022,Government,Mexico, VTT , High ,2844,250,7,19908,2844.94,17063.06,14171.97674,2891.083256
+ March ,2022,Small Business,Canada, Amarilla , High ,816,260,300,244800,37296,207504,201069.7674,6434.232558
+ March ,2022,Government,Germany, Paseo , High ,1030,10,20,20600,3474,17126,10074.11765,7051.882353
+ March ,2022,Channel Partners,Mexico, Velo , High ,455,120,12,5460,900,4560,1341.176471,3218.823529
+ March ,2022,Small Business,France, Amarilla , High ,2227,260,300,668100,111375,556725,545808.8235,10916.17647
+ April ,2022,Channel Partners,Germany, VTT , None ,2554,250,12,30648,0,30648,7662,22986
+ April ,2022,Channel Partners,United States of America, Amarilla , None ,1816,260,12,21792,0,21792,5448,16344
+ April ,2022,Enterprise,Germany, Amarilla , None ,4177,260,125,522125,0,522125,501240,20885
+ April ,2022,Small Business,United States of America, Montana , Low ,2162,5,300,648600,6903,641697,540148.9899,101548.0101
+ April ,2022,Government,United States of America, Paseo , Low ,3818,10,7,26726,314.475,26411.525,19055.93434,7355.590657
+ April ,2022,Government,France, Velo , Low ,3284,120,20,65680,772.8,64907.2,32781.41414,32125.78586
+ April ,2022,Government,Canada, VTT , Low ,868,250,350,303800,3302.25,300497.75,225481.7172,75016.03283
+ April ,2022,Enterprise,Canada, Carretera , Low ,638,3,125,79750,1856.25,77893.75,76304.08163,1589.668367
+ April ,2022,Enterprise,France, Carretera , Low ,3776,3,125,472000,15913.125,456086.875,451384.9485,4701.926546
+ April ,2022,Government,Germany, Carretera , Low ,2193,3,20,43860,1548,42312,21810.30928,20501.69072
+ April ,2022,Channel Partners,Mexico, VTT , Low ,1666,250,12,19992,689.76,19302.24,4974.804124,14327.43588
+ April ,2022,Government,Canada, Velo , Low ,3773,120,20,75460,2310.3,73149.7,37706.03093,35443.66907
+ April ,2022,Small Business,Germany, Paseo , Low ,1414,10,300,424200,16974,407226,353494.7917,53731.20833
+ April ,2022,Enterprise,Mexico, Amarilla , Low ,1031,260,125,128875,5370,123505,123505,0
+ April ,2022,Small Business,Mexico, Paseo , Medium ,1365,10,300,409500,24105,385395,338065.7895,47329.21053
+ April ,2022,Midmarket,France, Paseo , Medium ,3762,10,15,56430,3420.9,53009.1,37595.10638,15413.99362
+ April ,2022,Government,Mexico, Montana , Medium ,842,5,350,294700,20580,274120,216629.7872,57490.21277
+ April ,2022,Channel Partners,France, VTT , Medium ,1738,250,12,20856,1460.34,19395.66,5213.887097,14181.7729
+ April ,2022,Government,Germany, Paseo , Medium ,1158,10,7,8106,705.04,7400.96,5746.086957,1654.873043
+ April ,2022,Government,France, VTT , Medium ,574,250,350,200900,16086,184814,149228.6957,35585.30435
+ April ,2022,Small Business,Canada, Montana , Medium ,3802,5,300,1140600,102667.5,1037932.5,950487.6374,87444.86264
+ April ,2022,Midmarket,United States of America, Paseo , Medium ,3381,10,15,50715,4961.25,45753.75,33519.23077,12234.51923
+ April ,2022,Government,United States of America, VTT , Medium ,1189,250,350,416150,42572.25,373577.75,304961.4286,68616.32143
+ April ,2022,Midmarket,Mexico, Velo , Medium ,2312,120,15,34680,3547.8,31132.2,22807.47253,8324.727473
+ April ,2022,Enterprise,United States of America, Carretera , High ,3032,3,125,379000,43068.75,335931.25,358326.6667,-22395.41667
+ April ,2022,Midmarket,Germany, Velo , High ,464,120,15,6960,765,6195,4588.888889,1606.111111
+ April ,2022,Channel Partners,Canada, Amarilla , High ,3168,260,12,38016,4224.6,33791.4,9386.5,24404.9
+ April ,2022,Government,France, Paseo , High ,2456,10,7,17192,1949.64,15242.36,12233.03371,3009.326292
+ April ,2022,Small Business,France, Montana , High ,1755,5,300,526500,63828,462672,438136.3636,24535.63636
+ April ,2022,Government,Mexico, Carretera , High ,2321,3,20,46420,7221.2,39198.8,22790,16408.8
+ April ,2022,Government,Germany, Montana , High ,1139,5,350,398650,58751,339899,293600.4651,46298.53488
+ April ,2022,Government,United States of America, Velo , High ,539,120,20,10780,1696.8,9083.2,5280.930233,3802.269767
+ April ,2022,Midmarket,Canada, Paseo , High ,1565,10,15,23475,3631.5,19843.5,15563.52941,4279.970588
+ April ,2022,Government,Mexico, Paseo , High ,2433,10,7,17031,2661.75,14369.25,12075,2294.25
+ April ,2022,Government,Canada, Paseo , High ,723,10,7,5061,759.15,4301.85,3615,686.85
+ May ,2022,Government,France, Paseo , Low ,937,10,7,6559,72.1,6486.9,4680.30303,1806.59697
+ May ,2022,Government,Mexico, Velo , Low ,311,120,7,2177,25.34,2151.66,1552.424242,599.2357576
+ May ,2022,Small Business,France, Paseo , Low ,798,10,300,239400,5508,233892,198887.7551,35004.2449
+ May ,2022,Small Business,Germany, Paseo , Low ,1658,10,300,497400,10368,487032,414142.8571,72889.14286
+ May ,2022,Enterprise,Germany, Amarilla , Low ,2253,260,125,281625,5690,275935,270303.6735,5631.326531
+ May ,2022,Government,Canada, Carretera , Low ,756,3,20,15120,498.6,14621.4,7536.804124,7084.595876
+ May ,2022,Small Business,United States of America, Paseo , Low ,2772,10,300,831600,35016,796584,691479.1667,105104.8333
+ May ,2022,Channel Partners,France, VTT , Low ,770,250,12,9240,415.68,8824.32,2298,6526.32
+ May ,2022,Government,France, Carretera , Medium ,1359,3,20,27180,1563,25617,13482.63158,12134.36842
+ May ,2022,Government,United States of America, Paseo , Medium ,2280,10,7,15960,814.45,15145.55,11387.63158,3757.918421
+ May ,2022,Government,Germany, Montana , Medium ,1270,5,350,444500,30660,413840,327046.8085,86793.19149
+ May ,2022,Midmarket,Germany, Velo , Medium ,1407,120,15,21105,1377,19728,13991.48936,5736.510638
+ May ,2022,Midmarket,Canada, Velo , Medium ,1249,120,15,18735,1325.1,17409.9,12480.21505,4929.684946
+ May ,2022,Small Business,Canada, Paseo , Medium ,1531,10,300,459300,35742,423558,379532.2581,44025.74194
+ May ,2022,Enterprise,Canada, Amarilla , Medium ,1447,260,125,180875,14393.75,166481.25,171851.6129,-5370.362903
+ May ,2022,Government,Canada, Paseo , Medium ,239,10,7,1673,143.92,1529.08,1187.173913,341.906087
+ May ,2022,Government,Germany, Paseo , Medium ,952,10,7,6664,613.2,6050.8,4697.826087,1352.973913
+ May ,2022,Government,France, Montana , Medium ,1649,5,350,577150,52479,524671,428302.8571,96368.14286
+ May ,2022,Midmarket,Mexico, Velo , Medium ,208,120,15,3120,330.75,2789.25,2043.406593,745.8434066
+ May ,2022,Channel Partners,Germany, VTT , Medium ,809,250,12,9708,950.4,8757.6,2405.934066,6351.665934
+ May ,2022,Government,Germany, Carretera , Medium ,636,3,20,12720,1193.4,11526.6,6333.296703,5193.303297
+ May ,2022,Government,United States of America, Montana , High ,2313,5,350,809550,80955,728595,601380,127215
+ May ,2022,Small Business,Mexico, Paseo , High ,579,10,300,173700,17730,155970,144416.6667,11553.33333
+ May ,2022,Midmarket,United States of America, Velo , High ,679,120,15,10185,1185,9000,6666.666667,2333.333333
+ May ,2022,Enterprise,Mexico, VTT , High ,296,250,125,37000,4262.5,32737.5,34920,-2182.5
+ May ,2022,Government,Mexico, Amarilla , High ,1855,260,20,37100,4078,33022,18345.55556,14676.44444
+ May ,2022,Enterprise,France, Amarilla , High ,1232,260,125,154000,19703.75,134296.25,144858.8764,-10562.6264
+ May ,2022,Channel Partners,Canada, VTT , High ,1919,250,12,23028,3036.96,19991.04,5679.272727,14311.76727
+ May ,2022,Channel Partners,Mexico, Montana , High ,2341,5,12,28092,3831.84,24260.16,6892.090909,17368.06909
+ May ,2022,Government,United States of America, Carretera , High ,1725,3,20,34500,4880.4,29619.6,17220.69767,12398.90233
+ May ,2022,Government,Canada, Montana , High ,184,5,350,64400,9800,54600,47162.7907,7437.209302
+ May ,2022,Enterprise,United States of America, Amarilla , High ,2758,260,125,344750,49770,294980,329280,-34300
+ May ,2022,Government,Mexico, Paseo , High ,2508,10,350,877800,149677.5,728122.5,636342.3529,91780.14706
+ May ,2022,Midmarket,France, Velo , High ,2741,120,15,41115,6358.5,34756.5,27260,7496.5
+ May ,2022,Channel Partners,United States of America, VTT , High ,1661,250,12,19932,3250.8,16681.2,4906.235294,11774.96471
+ June ,2022,Midmarket,France, Carretera , None ,2047,3,15,30705,0,30705,20470,10235
+ June ,2022,Midmarket,Germany, Carretera , None ,772,3,15,11580,0,11580,7720,3860
+ June ,2022,Midmarket,Mexico, Carretera , None ,2198,3,15,32970,0,32970,21980,10990
+ June ,2022,Channel Partners,Canada, Montana , None ,2190,5,12,26280,0,26280,6570,19710
+ June ,2022,Government,France, Montana , None ,1842,5,20,36840,0,36840,18420,18420
+ June ,2022,Channel Partners,Germany, Montana , None ,1514,5,12,18168,0,18168,4542,13626
+ June ,2022,Midmarket,Mexico, Montana , None ,2247,5,15,33705,0,33705,22470,11235
+ June ,2022,Channel Partners,Canada, Paseo , None ,2316,10,12,27792,0,27792,6948,20844
+ June ,2022,Government,Germany, Paseo , None ,975,10,350,341250,0,341250,253500,87750
+ June ,2022,Government,Germany, Velo , None ,995,120,350,348250,0,348250,258700,89550
+ June ,2022,Channel Partners,Germany, Velo , None ,1514,120,12,18168,0,18168,4542,13626
+ June ,2022,Midmarket,France, VTT , None ,2003,250,15,30045,0,30045,20030,10015
+ June ,2022,Midmarket,Germany, VTT , None ,754,250,15,11310,0,11310,7540,3770
+ June ,2022,Government,France, Amarilla , None ,1880,260,20,37600,0,37600,18800,18800
+ June ,2022,Enterprise,United States of America, Paseo , Low ,727,10,125,90875,908.75,89966.25,87240,2726.25
+ June ,2022,Enterprise,France, Paseo , Low ,739,10,125,92375,983.75,91391.25,88621.81818,2769.431818
+ June ,2022,Enterprise,United States of America, VTT , Low ,654,250,125,81750,908.75,80841.25,78391.51515,2449.734848
+ June ,2022,Enterprise,France, VTT , Low ,779,250,125,97375,983.75,96391.25,93470.30303,2920.94697
+ June ,2022,Channel Partners,United States of America, Montana , Low ,1130,5,12,13560,274.08,13285.92,3389.265306,9896.654694
+ June ,2022,Channel Partners,United States of America, Paseo , Low ,1050,10,12,12600,274.08,12325.92,3144.367347,9181.552653
+ June ,2022,Enterprise,Mexico, Paseo , Low ,569,10,125,71125,1655,69470,68052.2449,1417.755102
+ June ,2022,Enterprise,Mexico, VTT , Low ,589,250,125,73625,1655,71970,70501.22449,1468.77551
+ June ,2022,Small Business,Germany, Carretera , Low ,606,3,300,181800,6201,175599,150858.2474,24740.75258
+ June ,2022,Channel Partners,France, Montana , Low ,1653,5,12,19836,684.36,19151.64,4935.989691,14215.65031
+ June ,2022,Channel Partners,France, Paseo , Low ,1729,10,12,20748,684.36,20063.64,5171.041237,14892.59876
+ June ,2022,Small Business,Germany, Paseo , Low ,668,10,300,200400,6201,194199,166837.6289,27361.37113
+ June ,2022,Enterprise,Germany, Paseo , Low ,1554,10,125,194250,5887.5,188362.5,186420.6186,1941.881443
+ June ,2022,Enterprise,Germany, VTT , Low ,1522,250,125,190250,5887.5,184362.5,182461.8557,1900.64433
+ June ,2022,Small Business,United States of America, Carretera , Medium ,971,3,300,291300,14865,276435,242486.8421,33948.15789
+ June ,2022,Small Business,United States of America, Paseo , Medium ,901,10,300,270300,14865,255435,224065.7895,31369.21053
+ June ,2022,Government,United States of America, Paseo , Medium ,523,10,350,183050,10535,172515,134898.9474,37616.05263
+ June ,2022,Government,United States of America, Velo , Medium ,535,120,350,187250,10535,176715,138183.1579,38531.84211
+ June ,2022,Midmarket,Canada, Carretera , Medium ,2730,3,15,40950,2559.6,38390.4,27227.23404,11163.16596
+ June ,2022,Government,France, Paseo , Medium ,1391,10,350,486850,31416,455434,359917.4468,95516.55319
+ June ,2022,Government,France, Velo , Medium ,1451,120,350,507850,31416,476434,376513.1915,99920.80851
+ June ,2022,Government,Mexico, Velo , Medium ,1303,120,7,9121,629.16,8491.84,6452.765957,2039.074043
+ June ,2022,Midmarket,Canada, VTT , Medium ,2588,250,15,38820,2559.6,36260.4,25716.59574,10543.80426
+ June ,2022,Government,Mexico, VTT , Medium ,1318,250,7,9226,629.16,8596.84,6532.553191,2064.286809
+ June ,2022,Government,Canada, Velo , Medium ,987,120,7,6909,556.15,6352.85,4879.301075,1473.548925
+ June ,2022,Government,Canada, Amarilla , Medium ,1089,260,7,7623,556.15,7066.85,5427.688172,1639.161828
+ June ,2022,Small Business,France, Carretera , Medium ,443,3,300,132900,9408,123492,110655.914,12836.08602
+ June ,2022,Small Business,France, Paseo , Medium ,389,10,300,116700,9408,107292,96139.78495,11152.21505
+ June ,2022,Government,United States of America, Montana , Medium ,1243,5,20,24860,2051.2,22808.8,12396.08696,10412.71304
+ June ,2022,Government,United States of America, Amarilla , Medium ,1192,260,20,23840,2051.2,21788.8,11841.73913,9947.06087
+ June ,2022,Government,Canada, Montana , Medium ,651,5,20,13020,1132.8,11887.2,6460.434783,5426.765217
+ June ,2022,Government,Germany, Paseo , Medium ,1325,10,20,26500,2185.6,24314.4,13214.34783,11100.05217
+ June ,2022,Small Business,Mexico, Paseo , Medium ,2189,10,300,656700,59040,597660,541358.6957,56301.30435
+ June ,2022,Government,United States of America, Velo , Medium ,2470,120,7,17290,1627.92,15662.08,12160,3502.08
+ June ,2022,Government,Germany, Velo , Medium ,2127,120,7,14889,1309.28,13579.72,10543.26087,3036.45913
+ June ,2022,Government,Germany, VTT , Medium ,2150,250,7,15050,1309.28,13740.72,10668.26087,3072.45913
+ June ,2022,Government,Canada, Amarilla , Medium ,679,260,20,13580,1132.8,12447.2,6764.782609,5682.417391
+ June ,2022,Government,United States of America, Amarilla , Medium ,2732,260,7,19124,1627.92,17496.08,13583.91304,3912.166957
+ June ,2022,Government,Germany, Amarilla , Medium ,1174,260,20,23480,2185.6,21294.4,11573.04348,9721.356522
+ June ,2022,Small Business,Mexico, Amarilla , Medium ,2189,260,300,656700,59040,597660,541358.6957,56301.30435
+ June ,2022,Small Business,Canada, Carretera , Medium ,995,3,300,298500,29538,268962,246302.1978,22659.8022
+ June ,2022,Small Business,Canada, Paseo , Medium ,1039,10,300,311700,29538,282162,258390.1099,23771.89011
+ June ,2022,Government,Mexico, Paseo , Medium ,903,10,20,18060,1868.4,16191.6,8896.483516,7295.116484
+ June ,2022,Government,Mexico, Amarilla , Medium ,923,260,20,18460,1868.4,16591.6,9116.263736,7475.336264
+ June ,2022,Government,Mexico, Carretera , High ,832,3,350,291200,37212,253988,214405.4545,39582.54545
+ June ,2022,Government,Mexico, Paseo , High ,886,10,350,310100,37212,272888,230360,42528
+ June ,2022,Midmarket,United States of America, Carretera , High ,2464,3,15,36960,5005.65,31954.35,24486.09195,7468.258046
+ June ,2022,Midmarket,United States of America, VTT , High ,2515,250,15,37725,5005.65,32719.35,25072.29885,7647.051149
+ June ,2022,Channel Partners,Mexico, Montana , High ,561,5,12,6732,942.24,5789.76,1663.724138,4126.035862
+ June ,2022,Government,Canada, Paseo , High ,2316,10,350,810600,119756,690844,589883.2184,100960.7816
+ June ,2022,Enterprise,Canada, Paseo , High ,1440,10,125,180000,25723.75,154276.25,170235.8621,-15959.61207
+ June ,2022,Government,Canada, Velo , High ,2237,120,350,782950,119756,663194,566274.023,96919.97701
+ June ,2022,Government,France, Velo , High ,1071,120,7,7497,1082.9,6414.1,5266.091954,1148.008046
+ June ,2022,Channel Partners,Mexico, Velo , High ,597,120,12,7164,942.24,6221.76,1787.862069,4433.897931
+ June ,2022,Enterprise,Canada, VTT , High ,1393,250,125,174125,25723.75,148401.25,163753.1034,-15351.85345
+ June ,2022,Government,France, Amarilla , High ,1142,260,7,7994,1082.9,6911.1,5674.137931,1236.962069
+ July ,2022,Enterprise,Canada, Montana , None ,2398,5,125,299750,0,299750,287760,11990
+ July ,2022,Channel Partners,Germany, Paseo , None ,333,10,12,3996,0,3996,999,2997
+ July ,2022,Government,Germany, Amarilla , None ,1618,260,7,11326,0,11326,8090,3236
+ July ,2022,Government,United States of America, Carretera , Low ,2326,3,7,16282,177.03,16104.97,11619.74747,4485.222525
+ July ,2022,Government,France, Montana , Low ,1196,5,20,23920,275.1,23644.9,11941.86869,11703.03131
+ July ,2022,Enterprise,Mexico, Paseo , Low ,1640,10,125,205000,2278.75,202721.25,196578.1818,6143.068182
+ July ,2022,Channel Partners,United States of America, Paseo , Low ,1314,10,12,15768,493.02,15274.98,3936.850515,11338.12948
+ July ,2022,Government,United States of America, Paseo , Low ,3001,10,350,1050350,48300,1002050,775395.8333,226654.1667
+ July ,2022,Enterprise,France, Paseo , Low ,2928,10,125,366000,14940,351060,351060,0
+ July ,2022,Government,Mexico, Amarilla , Medium ,1514,260,7,10598,589.05,10008.95,7525.526316,2483.423684
+ July ,2022,Enterprise,United States of America, Montana , Medium ,3590,5,125,448750,22668.75,426081.25,430566.3158,-4485.065789
+ July ,2022,Enterprise,Germany, Paseo , Medium ,3161,10,125,395125,30738.75,364386.25,376140.6452,-11754.39516
+ July ,2022,Small Business,France, Velo , Medium ,1659,120,300,497700,34839,462861,414750,48111
+ July ,2022,Government,Germany, Montana , Medium ,599,5,20,11980,1032,10948,5950,4998
+ July ,2022,Government,United States of America, VTT , Medium ,375,250,20,7500,698.4,6801.6,3696.521739,3105.078261
+ July ,2022,Small Business,Canada, Velo , Medium ,3527,120,300,1058100,102424.5,955675.5,875160.7143,80514.78571
+ July ,2022,Government,Germany, Velo , Medium ,1189,120,350,416150,41170.5,374979.5,306105.7143,68873.78571
+ July ,2022,Government,Canada, Carretera , Medium ,819,3,7,5733,515.97,5217.03,4095,1122.03
+ July ,2022,Midmarket,Canada, Amarilla , Medium ,1434,260,15,21510,2201.175,19308.825,14145.65934,5163.165659
+ July ,2022,Government,France, Velo , High ,613,120,350,214550,22365,192185,158628.8889,33556.11111
+ July ,2022,Midmarket,Mexico, VTT , High ,596,250,15,8940,961.5,7978.5,5910,2068.5
+ July ,2022,Midmarket,United States of America, Amarilla , High ,3199,260,15,47985,5279.175,42705.825,31989.38202,10716.44298
+ July ,2022,Small Business,Germany, Carretera , High ,2389,3,300,716700,92763,623937,584210.6742,39726.32584
+ July ,2022,Government,Canada, Paseo , High ,1873,10,350,655550,81023.25,574526.75,479540.7865,94985.96348
+ July ,2022,Channel Partners,Canada, Paseo , High ,3864,10,12,46368,5314.32,41053.68,11531.93258,29521.74742
+ July ,2022,Channel Partners,France, Paseo , High ,2304,10,12,27648,3201.66,24446.34,6866.949438,17579.39056
+ July ,2022,Government,Mexico, Velo , High ,1353,120,350,473550,58590,414960,350290.9091,64669.09091
+ July ,2022,Midmarket,France, VTT , High ,3642,250,15,54630,6974.1,47655.9,36102.95455,11552.94545
+ July ,2022,Government,France, Amarilla , High ,3079,260,7,21553,2874.06,18678.94,15161.47727,3517.462727
+ July ,2022,Government,Mexico, Montana , High ,2232,5,20,44640,5863,38777,22285.63218,16491.36782
+ July ,2022,Channel Partners,Mexico, Paseo , High ,496,10,12,5952,890.76,5061.24,1454.37931,3606.86069
+ July ,2022,Small Business,Mexico, Carretera , High ,792,3,300,237600,33642,203958,197633.7209,6324.27907
+ July ,2022,Small Business,United States of America, Velo , High ,2214,120,300,664200,103320,560880,543488.3721,17391.62791
+ July ,2022,Government,Canada, VTT , High ,813,250,20,16260,2596.5,13663.5,8037.352941,5626.147059
+ July ,2022,Midmarket,Germany, VTT , High ,442,250,15,6630,1107,5523,4331.764706,1191.235294
+ August ,2022,Small Business,Mexico, Montana , None ,948,5,300,284400,0,284400,237000,47400
+ August ,2022,Government,Mexico, Paseo , None ,803,10,7,5621,0,5621,4015,1606
+ August ,2022,Enterprise,United States of America, Velo , None ,2595,120,125,324375,0,324375,311400,12975
+ August ,2022,Channel Partners,United States of America, Amarilla , None ,2055,260,12,24660,0,24660,6165,18495
+ August ,2022,Government,Canada, Montana , Low ,1628,5,7,11396,128.1,11267.9,8129.79798,3138.10202
+ August ,2022,Enterprise,Canada, Velo , Low ,839,120,125,104875,1153.75,103721.25,100578.1818,3143.068182
+ August ,2022,Small Business,Canada, VTT , Low ,1874,250,300,562200,16866,545334,468500,76834
+ August ,2022,Government,Mexico, VTT , Low ,1527,250,350,534450,17241,517209,396095.2577,121113.7423
+ August ,2022,Small Business,Germany, Montana , Low ,1598,5,300,479400,22308,457092,396781.25,60310.75
+ August ,2022,Channel Partners,Mexico, Amarilla , Medium ,999,260,12,11988,673.8,11314.2,2977.421053,8336.778947
+ August ,2022,Government,United States of America, Velo , Medium ,2463,120,20,49260,2832,46428,24435.78947,21992.21053
+ August ,2022,Government,France, Velo , Medium ,1531,120,20,30620,1579,29041,15284.73684,13756.26316
+ August ,2022,Government,Canada, Amarilla , Medium ,513,260,350,179550,9660,169890,132846.3158,37043.68421
+ August ,2022,Midmarket,United States of America, Paseo , Medium ,1978,10,15,29670,1978.2,27691.8,19639.57447,8052.225532
+ August ,2022,Midmarket,Germany, Paseo , Medium ,1481,10,15,22215,1568.7,20646.3,14642.76596,6003.534043
+ August ,2022,Government,Germany, Velo , Medium ,940,120,20,18800,1201.2,17598.8,9361.06383,8237.73617
+ August ,2022,Channel Partners,Canada, Carretera , Medium ,1676,3,12,20112,1582.56,18529.44,4981.032258,13548.40774
+ August ,2022,Midmarket,France, Paseo , Medium ,1806,10,15,27090,2206.05,24883.95,17837.95699,7045.993011
+ August ,2022,Government,Mexico, Velo , Medium ,578,120,20,11560,852.6,10707.4,5756.666667,4950.733333
+ August ,2022,Enterprise,Mexico, Carretera , Medium ,1432,3,125,179000,15400,163600,170713.0435,-7113.043478
+ August ,2022,Small Business,France, Montana , Medium ,1468,5,300,440400,37488,402912,364956.5217,37955.47826
+ August ,2022,Government,United States of America, Paseo , Medium ,610,10,7,4270,379.68,3890.32,3020.434783,869.8852174
+ August ,2022,Government,Germany, Paseo , Medium ,1486,10,7,10402,894.88,9507.12,7381.304348,2125.815652
+ August ,2022,Government,France, VTT , Medium ,323,250,350,113050,10668,102382,82668.69565,19713.30435
+ August ,2022,Government,Germany, VTT , Medium ,362,250,350,126700,11816,114884,92763.47826,22120.52174
+ August ,2022,Government,United States of America, VTT , High ,2778,250,350,972300,98245,874055,721442.2222,152612.7778
+ August ,2022,Channel Partners,Germany, Amarilla , High ,2213,260,12,26556,3088.8,23467.2,6518.666667,16948.53333
+ August ,2022,Government,Canada, Paseo , High ,2058,10,20,41160,5266.8,35893.2,20164.7191,15728.4809
+ August ,2022,Midmarket,Mexico, Paseo , High ,1845,10,15,27675,3273.6,24401.4,18278.20225,6123.197753
+ August ,2022,Government,France, Paseo , High ,2615,10,7,18305,2453.36,15851.64,13014.48276,2837.157241
+ August ,2022,Small Business,United States of America, VTT , High ,2439,250,300,731700,106722,624978,605598.8372,19379.16279
+ August ,2022,Channel Partners,France, Amarilla , High ,2202,260,12,26424,4158,22266,6472.674419,15793.32558
+ August ,2022,Enterprise,France, Carretera , High ,1080,3,125,135000,22012.5,112987.5,127609.4118,-14621.91176
+ August ,2022,Enterprise,Germany, Carretera , High ,2573,3,125,321625,51881.25,269743.75,304651.7647,-34908.01471
+ August ,2022,Midmarket,Canada, Paseo , High ,2559,10,15,38385,5757.75,32627.25,25590,7037.25
+ September ,2022,Midmarket,France, Paseo , None ,549,10,15,8235,0,8235,5490,2745
+ September ,2022,Small Business,Mexico, Paseo , None ,788,10,300,236400,0,236400,197000,39400
+ September ,2022,Government,France, VTT , None ,1527,250,350,534450,0,534450,397020,137430
+ September ,2022,Enterprise,United States of America, Carretera , Low ,330,3,125,41250,412.5,40837.5,39600,1237.5
+ September ,2022,Small Business,United States of America, Montana , Low ,2498,5,300,749400,7494,741906,624500,117406
+ September ,2022,Channel Partners,United States of America, Amarilla , Low ,1989,260,12,23868,238.68,23629.32,5967,17662.32
+ September ,2022,Government,Germany, Montana , Low ,1797,5,350,628950,18868.5,610081.5,467220,142861.5
+ September ,2022,Government,Mexico, Paseo , Low ,1760,10,7,12320,369.6,11950.4,8800,3150.4
+ September ,2022,Government,United States of America, Velo , Low ,736,120,20,14720,588.8,14131.2,7360,6771.2
+ September ,2022,Government,Canada, Velo , Low ,2646,120,20,52920,2116.8,50803.2,26460,24343.2
+ September ,2022,Government,United States of America, VTT , Low ,349,250,350,122150,4886,117264,90740,26524
+ September ,2022,Government,Canada, Paseo , Medium ,2349,10,7,16443,822.15,15620.85,11745,3875.85
+ September ,2022,Government,Mexico, Montana , Medium ,720,5,350,252000,12600,239400,187200,52200
+ September ,2022,Government,Mexico, Carretera , Medium ,1834,3,20,36680,2567.6,34112.4,18340,15772.4
+ September ,2022,Government,France, Paseo , Medium ,1031,10,7,7217,505.19,6711.81,5155,1556.81
+ September ,2022,Channel Partners,Germany, VTT , Medium ,2215,250,12,26580,1860.6,24719.4,6645,18074.4
+ September ,2022,Midmarket,United States of America, Paseo , Medium ,2931,10,15,43965,3077.55,40887.45,29310,11577.45
+ September ,2022,Small Business,Germany, Paseo , Medium ,1123,10,300,336900,23583,313317,280750,32567
+ September ,2022,Enterprise,Germany, Amarilla , Medium ,994,260,125,124250,8697.5,115552.5,119280,-3727.5
+ September ,2022,Small Business,Canada, Montana , Medium ,1283,5,300,384900,30792,354108,320750,33358
+ September ,2022,Government,Germany, Paseo , Medium ,2409,10,7,16863,1349.04,15513.96,12045,3468.96
+ September ,2022,Small Business,France, Montana , Medium ,322,5,300,96600,8694,87906,80500,7406
+ September ,2022,Channel Partners,France, VTT , Medium ,2234,250,12,26808,2412.72,24395.28,6702,17693.28
+ September ,2022,Channel Partners,Mexico, VTT , High ,1005,250,12,12060,1326.6,10733.4,3015,7718.4
+ September ,2022,Government,France, Velo , High ,2805,120,20,56100,6171,49929,28050,21879
+ September ,2022,Midmarket,Mexico, Velo , High ,655,120,15,9825,1080.75,8744.25,6550,2194.25
+ September ,2022,Enterprise,Mexico, Amarilla , High ,947,260,125,118375,13021.25,105353.75,113640,-8286.25
+ September ,2022,Government,United States of America, Paseo , High ,380,10,7,2660,292.6,2367.4,1900,467.4
+ September ,2022,Enterprise,Canada, Carretera , High ,2416,3,125,302000,36240,265760,289920,-24160
+ September ,2022,Government,Canada, VTT , High ,623,250,350,218050,26166,191884,161980,29904
+ September ,2022,Channel Partners,Canada, Amarilla , High ,2761,260,12,33132,3975.84,29156.16,8283,20873.16
+ September ,2022,Government,Germany, Carretera , High ,442,3,20,8840,1149.2,7690.8,4420,3270.8
+ September ,2022,Midmarket,Germany, Velo , High ,660,120,15,9900,1287,8613,6600,2022
+ September ,2022,Enterprise,France, Carretera , High ,1023,3,125,127875,17902.5,109972.5,122760,-12787.5
+ September ,2022,Midmarket,Canada, Paseo , High ,2470,10,15,37050,5187,31863,24700,7163
+ October ,2022,Enterprise,Canada, Montana , None ,345,5,125,43125,0,43125,41400,1725
+ October ,2022,Enterprise,Canada, Velo , None ,345,120,125,43125,0,43125,41400,1725
+ October ,2022,Channel Partners,Germany, Carretera , Low ,766,3,12,9192,91.92,9100.08,2298,6802.08
+ October ,2022,Small Business,Mexico, Carretera , Low ,494,3,300,148200,1482,146718,123500,23218
+ October ,2022,Enterprise,United States of America, Montana , Low ,663,5,125,82875,828.75,82046.25,79560,2486.25
+ October ,2022,Channel Partners,Germany, Paseo , Low ,766,10,12,9192,91.92,9100.08,2298,6802.08
+ October ,2022,Enterprise,United States of America, Velo , Low ,663,120,125,82875,828.75,82046.25,79560,2486.25
+ October ,2022,Small Business,Mexico, VTT , Low ,494,250,300,148200,1482,146718,123500,23218
+ October ,2022,Small Business,Germany, Carretera , Low ,214,3,300,64200,1284,62916,53500,9416
+ October ,2022,Enterprise,Germany, Paseo , Low ,809,10,125,101125,2022.5,99102.5,97080,2022.5
+ October ,2022,Enterprise,Mexico, Paseo , Low ,2145,10,125,268125,5362.5,262762.5,257400,5362.5
+ October ,2022,Government,Germany, Velo , Low ,2966,120,350,1038100,20762,1017338,771160,246178
+ October ,2022,Enterprise,Germany, Velo , Low ,809,120,125,101125,2022.5,99102.5,97080,2022.5
+ October ,2022,Enterprise,Mexico, Velo , Low ,2145,120,125,268125,5362.5,262762.5,257400,5362.5
+ October ,2022,Small Business,Germany, VTT , Low ,214,250,300,64200,1284,62916,53500,9416
+ October ,2022,Government,Germany, Amarilla , Low ,2966,260,350,1038100,20762,1017338,771160,246178
+ October ,2022,Midmarket,Germany, Paseo , Low ,1945,10,15,29175,875.25,28299.75,19450,8849.75
+ October ,2022,Midmarket,Germany, VTT , Low ,1945,250,15,29175,875.25,28299.75,19450,8849.75
+ October ,2022,Government,Canada, Carretera , Low ,2851,3,7,19957,798.28,19158.72,14255,4903.72
+ October ,2022,Government,Canada, Montana , Low ,2851,5,7,19957,798.28,19158.72,14255,4903.72
+ October ,2022,Midmarket,United States of America, Paseo , Low ,671,10,15,10065,402.6,9662.4,6710,2952.4
+ October ,2022,Midmarket,Mexico, Paseo , Low ,1514,10,15,22710,908.4,21801.6,15140,6661.6
+ October ,2022,Midmarket,Mexico, VTT , Low ,1514,250,15,22710,908.4,21801.6,15140,6661.6
+ October ,2022,Midmarket,United States of America, Amarilla , Low ,671,260,15,10065,402.6,9662.4,6710,2952.4
+ October ,2022,Government,Germany, Montana , Medium ,1159,5,7,8113,405.65,7707.35,5795,1912.35
+ October ,2022,Government,Germany, Amarilla , Medium ,1159,260,7,8113,405.65,7707.35,5795,1912.35
+ October ,2022,Government,Canada, Paseo , Medium ,1228,10,350,429800,21490,408310,319280,89030
+ October ,2022,Government,Canada, Paseo , Medium ,1389,10,20,27780,1389,26391,13890,12501
+ October ,2022,Enterprise,France, Paseo , Medium ,704,10,125,88000,4400,83600,84480,-880
+ October ,2022,Enterprise,France, Velo , Medium ,704,120,125,88000,4400,83600,84480,-880
+ October ,2022,Government,Canada, VTT , Medium ,1389,250,20,27780,1389,26391,13890,12501
+ October ,2022,Government,Canada, Amarilla , Medium ,1228,260,350,429800,21490,408310,319280,89030
+ October ,2022,Channel Partners,Canada, Carretera , Medium ,2299,3,12,27588,1655.28,25932.72,6897,19035.72
+ October ,2022,Government,France, Montana , Medium ,1403,5,7,9821,589.26,9231.74,7015,2216.74
+ October ,2022,Channel Partners,Canada, Paseo , Medium ,2299,10,12,27588,1655.28,25932.72,6897,19035.72
+ October ,2022,Government,United States of America, Paseo , Medium ,727,10,350,254450,15267,239183,189020,50163
+ October ,2022,Small Business,France, Velo , Medium ,1221,120,300,366300,21978,344322,305250,39072
+ October ,2022,Government,France, Velo , Medium ,2076,120,350,726600,43596,683004,539760,143244
+ October ,2022,Small Business,France, VTT , Medium ,1221,250,300,366300,21978,344322,305250,39072
+ October ,2022,Government,United States of America, Amarilla , Medium ,727,260,350,254450,15267,239183,189020,50163
+ October ,2022,Government,France, Amarilla , Medium ,1403,260,7,9821,589.26,9231.74,7015,2216.74
+ October ,2022,Government,France, Amarilla , Medium ,2076,260,350,726600,43596,683004,539760,143244
+ October ,2022,Government,France, Montana , Medium ,1757,5,20,35140,2108.4,33031.6,17570,15461.6
+ October ,2022,Government,France, Paseo , Medium ,1757,10,20,35140,2108.4,33031.6,17570,15461.6
+ October ,2022,Channel Partners,Mexico, Carretera , Medium ,367,3,12,4404,396.36,4007.64,1101,2906.64
+ October ,2022,Channel Partners,Mexico, Paseo , Medium ,367,10,12,4404,396.36,4007.64,1101,2906.64
+ October ,2022,Channel Partners,United States of America, Carretera , High ,386,3,12,4632,463.2,4168.8,1158,3010.8
+ October ,2022,Channel Partners,United States of America, Paseo , High ,386,10,12,4632,463.2,4168.8,1158,3010.8
+ October ,2022,Midmarket,France, Paseo , High ,2167,10,15,32505,3250.5,29254.5,21670,7584.5
+ October ,2022,Small Business,United States of America, Velo , High ,2294,120,300,688200,68820,619380,573500,45880
+ October ,2022,Small Business,United States of America, VTT , High ,2294,250,300,688200,68820,619380,573500,45880
+ October ,2022,Midmarket,France, VTT , High ,2167,250,15,32505,3250.5,29254.5,21670,7584.5
+ October ,2022,Channel Partners,France, Carretera , High ,1198,3,12,14376,1581.36,12794.64,3594,9200.64
+ October ,2022,Channel Partners,France, Paseo , High ,1198,10,12,14376,1581.36,12794.64,3594,9200.64
+ October ,2022,Government,Germany, Montana , High ,2992,5,20,59840,6582.4,53257.6,29920,23337.6
+ October ,2022,Government,Germany, Paseo , High ,2992,10,20,59840,6582.4,53257.6,29920,23337.6
+ October ,2022,Government,Mexico, Velo , High ,344,120,350,120400,13244,107156,89440,17716
+ October ,2022,Government,Mexico, Amarilla , High ,344,260,350,120400,13244,107156,89440,17716
+ October ,2022,Government,Mexico, Montana , High ,1715,5,20,34300,4116,30184,17150,13034
+ October ,2022,Government,Mexico, Paseo , High ,1715,10,20,34300,4116,30184,17150,13034
+ October ,2022,Government,United States of America, Carretera , High ,2996,3,7,20972,2936.08,18035.92,14980,3055.92
+ October ,2022,Government,United States of America, Montana , High ,2996,5,7,20972,2936.08,18035.92,14980,3055.92
+ October ,2022,Government,Mexico, Montana , High ,1727,5,7,12089,1692.46,10396.54,8635,1761.54
+ October ,2022,Midmarket,Canada, Paseo , High ,1743,10,15,26145,3660.3,22484.7,17430,5054.7
+ October ,2022,Small Business,Canada, Velo , High ,269,120,300,80700,11298,69402,67250,2152
+ October ,2022,Small Business,Canada, VTT , High ,269,250,300,80700,11298,69402,67250,2152
+ October ,2022,Midmarket,Canada, Amarilla , High ,1743,260,15,26145,3660.3,22484.7,17430,5054.7
+ October ,2022,Government,Mexico, Amarilla , High ,1727,260,7,12089,1692.46,10396.54,8635,1761.54
+ October ,2022,Government,United States of America, Paseo , High ,267,10,20,5340,801,4539,2670,1869
+ October ,2022,Government,United States of America, VTT , High ,267,250,20,5340,801,4539,2670,1869
+ November ,2022,Government,Canada, Paseo , None ,1725,10,350,603750,0,603750,448500,155250
+ November ,2022,Channel Partners,United States of America, Paseo , None ,912,10,12,10944,0,10944,2736,8208
+ November ,2022,Government,Canada, Velo , Low ,2092,120,7,14644,146.44,14497.56,10460,4037.56
+ November ,2022,Midmarket,France, Amarilla , Low ,321,260,15,4815,48.15,4766.85,3210,1556.85
+ November ,2022,Government,France, Carretera , Low ,2145,3,7,15015,300.3,14714.7,10725,3989.7
+ November ,2022,Enterprise,Mexico, Montana , Low ,1660,5,125,207500,4150,203350,199200,4150
+ November ,2022,Channel Partners,France, Paseo , Low ,1785,10,12,21420,428.4,20991.6,5355,15636.6
+ November ,2022,Government,Germany, Carretera , Medium ,1016,3,7,7112,355.6,6756.4,5080,1676.4
+ November ,2022,Government,United States of America, VTT , Medium ,1265,250,20,25300,1265,24035,12650,11385
+ November ,2022,Government,Germany, VTT , Medium ,2297,250,20,45940,2297,43643,22970,20673
+ November ,2022,Government,United States of America, Carretera , Medium ,263,3,7,1841,110.46,1730.54,1315,415.54
+ November ,2022,Government,Mexico, VTT , Medium ,1123,250,20,22460,1347.6,21112.4,11230,9882.4
+ November ,2022,Enterprise,Germany, Montana , Medium ,2500,5,125,312500,21875,290625,300000,-9375
+ November ,2022,Small Business,Canada, Paseo , Medium ,1404,10,300,421200,29484,391716,351000,40716
+ November ,2022,Channel Partners,Mexico, Paseo , Medium ,2763,10,12,33156,2320.92,30835.08,8289,22546.08
+ November ,2022,Government,Germany, Paseo , Medium ,2146,10,350,751100,60088,691012,557960,133052
+ November ,2022,Small Business,France, Velo , Medium ,386,120,300,115800,9264,106536,96500,10036
+ November ,2022,Enterprise,France, Montana , Medium ,1857,5,125,232125,20891.25,211233.75,222840,-11606.25
+ November ,2022,Channel Partners,Germany, Paseo , Medium ,1775,10,12,21300,1917,19383,5325,14058
+ November ,2022,Midmarket,Germany, Amarilla , Medium ,970,260,15,14550,1309.5,13240.5,9700,3540.5
+ November ,2022,Government,France, VTT , Medium ,2682,250,20,53640,4827.6,48812.4,26820,21992.4
+ November ,2022,Enterprise,United States of America, Montana , High ,1804,5,125,225500,22550,202950,216480,-13530
+ November ,2022,Midmarket,Canada, Carretera , High ,1560,3,15,23400,2574,20826,15600,5226
+ November ,2022,Government,Mexico, Carretera , High ,2706,3,7,18942,2083.62,16858.38,13530,3328.38
+ November ,2022,Government,Canada, VTT , High ,2935,250,20,58700,6457,52243,29350,22893
+ November ,2022,Midmarket,United States of America, Amarilla , High ,2548,260,15,38220,4586.4,33633.6,25480,8153.6
+ November ,2022,Small Business,Mexico, Velo , High ,2605,120,300,781500,101595,679905,651250,28655
+ November ,2022,Channel Partners,Canada, Paseo , High ,2222,10,12,26664,3732.96,22931.04,6666,16265.04
+ November ,2022,Government,France, Paseo , High ,1922,10,350,672700,94178,578522,499720,78802
+ November ,2022,Small Business,Germany, Velo , High ,2536,120,300,760800,106512,654288,634000,20288
+ November ,2022,Midmarket,Mexico, Amarilla , High ,1870,260,15,28050,3927,24123,18700,5423
+ November ,2022,Government,United States of America, Paseo , High ,2007,10,350,702450,105367.5,597082.5,521820,75262.5
+ November ,2022,Government,Mexico, Paseo , High ,2151,10,350,752850,112927.5,639922.5,559260,80662.5
+ November ,2022,Small Business,United States of America, Velo , High ,2574,120,300,772200,115830,656370,643500,12870
+ November ,2022,Enterprise,Canada, VTT , High ,2954,250,125,369250,55387.5,313862.5,354480,-40617.5
+ December ,2022,Midmarket,Canada, Paseo , None ,2152,10,15,32280,0,32280,21520,10760
+ December ,2022,Midmarket,United States of America, Paseo , Low ,1925,10,15,28875,577.5,28297.5,19250,9047.5
+ December ,2022,Government,United States of America, Paseo , Low ,2022,10,7,14091,281.82,13809.18,10065,3744.18
+ December ,2022,Government,Mexico, Velo , Low ,544,120,20,10880,217.6,10662.4,5440,5222.4
+ December ,2022,Government,United States of America, VTT , Low ,266,250,350,93100,1862,91238,69160,22078
+ December ,2022,Government,Mexico, VTT , Low ,1940,250,350,679000,13580,665420,504400,161020
+ December ,2022,Channel Partners,Canada, Carretera , Low ,908,3,12,10896,326.88,10569.12,2724,7845.12
+ December ,2022,Midmarket,France, Paseo , Low ,2261,10,15,33915,1356.6,32558.4,22610,9948.4
+ December ,2022,Government,Canada, Amarilla , Low ,1778,260,350,622300,24892,597408,462280,135128
+ December ,2022,Small Business,Mexico, Montana , Medium ,1100,5,300,330000,16500,313500,275000,38500
+ December ,2022,Government,Canada, Paseo , Medium ,1802,10,20,36040,1802,34238,18020,16218
+ December ,2022,Government,France, Paseo , Medium ,2136,10,7,14952,747.6,14204.4,10680,3524.4
+ December ,2022,Midmarket,Germany, Paseo , Medium ,2116,10,15,31740,1587,30153,21160,8993
+ December ,2022,Government,France, Velo , Medium ,1033,120,20,20660,1033,19627,10330,9297
+ December ,2022,Enterprise,Germany, Carretera , Medium ,887,3,125,110875,6652.5,104222.5,106440,-2217.5
+ December ,2022,Small Business,Canada, VTT , Medium ,2436,250,300,730800,43848,686952,609000,77952
+ December ,2022,Government,Germany, Paseo , Medium ,2125,10,7,14875,1041.25,13833.75,10625,3208.75
+ December ,2022,Government,United States of America, Velo , Medium ,1421,120,20,28420,1989.4,26430.6,14210,12220.6
+ December ,2022,Government,Germany, Velo , Medium ,588,120,20,11760,823.2,10936.8,5880,5056.8
+ December ,2022,Government,Mexico, Paseo , Medium ,1946,10,7,13622,1089.76,12532.24,9730,2802.24
+ December ,2022,Small Business,United States of America, VTT , Medium ,808,250,300,242400,19392,223008,202000,21008
+ December ,2022,Channel Partners,Mexico, Amarilla , Medium ,1375,260,12,16500,1320,15180,4125,11055
+ December ,2022,Government,Canada, Montana , Medium ,1611,5,7,11277,1014.93,10262.07,8055,2207.07
+ December ,2022,Small Business,Germany, Montana , Medium ,334,5,300,100200,9018,91182,83500,7682
+ December ,2022,Channel Partners,France, Amarilla , Medium ,306,260,12,3672,330.48,3341.52,918,2423.52
+ December ,2022,Enterprise,France, Carretera , High ,1482,3,125,185250,18525,166725,177840,-11115
+ December ,2022,Enterprise,Canada, Velo , High ,1916,120,125,239500,23950,215550,229920,-14370
+ December ,2022,Government,Germany, VTT , High ,1870,250,350,654500,65450,589050,486200,102850
+ December ,2022,Small Business,France, Montana , High ,1186,5,300,355800,42696,313104,296500,16604
+ December ,2022,Midmarket,Mexico, Paseo , High ,380,10,15,5700,684,5016,3800,1216
+ December ,2022,Channel Partners,Germany, Amarilla , High ,1770,260,12,21240,2761.2,18478.8,5310,13168.8
+ December ,2022,Channel Partners,United States of America, Amarilla , High ,2015,260,12,24180,3385.2,20794.8,6045,14749.8
+ December ,2022,Enterprise,Mexico, Carretera , High ,2821,3,125,352625,49367.5,303257.5,338520,-35262.5
+ December ,2022,Government,France, VTT , High ,1281,250,350,448350,62769,385581,333060,52521
+ December ,2022,Enterprise,United States of America, Velo , High ,2438,120,125,304750,45712.5,259037.5,292560,-33522.5
+ January ,2023,Government,Canada, Carretera , None ,1618.5,3,20,32370,0,32370,16185,16185
+ January ,2023,Government,Germany, Carretera , None ,1321,3,20,26420,0,26420,13210,13210
+ January ,2023,Government,Mexico, Velo , None ,1493,120,7,10451,0,10451,7465,2986
+ January ,2023,Government,France, Paseo , Low ,3945,10,7,27615,276.15,27338.85,19725,7613.85
+ January ,2023,Small Business,France, Paseo , Low ,2434.5,10,300,730350,21910.5,708439.5,608625,99814.5
+ January ,2023,Channel Partners,Germany, VTT , Low ,2479,250,12,29748,892.44,28855.56,7437,21418.56
+ January ,2023,Government,Canada, Paseo , Low ,4251,10,7,29757,1190.28,28566.72,21255,7311.72
+ January ,2023,Government,Germany, Paseo , Medium ,1372,10,7,9604,480.2,9123.8,6860,2263.8
+ January ,2023,Government,France, Montana , Medium ,1384.5,5,350,484575,24228.75,460346.25,359970,100376.25
+ January ,2023,Midmarket,United States of America, Velo , Medium ,555,120,15,8325,416.25,7908.75,5550,2358.75
+ January ,2023,Midmarket,Mexico, Velo , Medium ,2861,120,15,42915,2145.75,40769.25,28610,12159.25
+ January ,2023,Government,United States of America, Carretera , Medium ,1117.5,3,20,22350,1341,21009,11175,9834
+ January ,2023,Enterprise,France, Amarilla , Medium ,1987.5,260,125,248437.5,14906.25,233531.25,238500,-4968.75
+ January ,2023,Channel Partners,Mexico, Montana , Medium ,2340,5,12,28080,1965.6,26114.4,7020,19094.4
+ January ,2023,Channel Partners,Canada, VTT , Medium ,3244.5,250,12,38934,2725.38,36208.62,9733.5,26475.12
+ January ,2023,Small Business,Mexico, Paseo , Medium ,2565,10,300,769500,69255,700245,641250,58995
+ January ,2023,Government,Mexico, Paseo , Medium ,2417,10,350,845950,76135.5,769814.5,628420,141394.5
+ January ,2023,Channel Partners,United States of America, VTT , Medium ,1956,250,12,23472,2112.48,21359.52,5868,15491.52
+ January ,2023,Midmarket,Germany, Velo , High ,681,120,15,10215,1021.5,9193.5,6810,2383.5
+ January ,2023,Enterprise,United States of America, Amarilla , High ,579,260,125,72375,7237.5,65137.5,69480,-4342.5
+ January ,2023,Midmarket,Canada, Velo , High ,384,120,15,5760,633.6,5126.4,3840,1286.4
+ January ,2023,Government,Germany, Montana , High ,766,5,350,268100,29491,238609,199160,39449
+ January ,2023,Small Business,Canada, Paseo , High ,873,10,300,261900,28809,233091,218250,14841
+ January ,2023,Channel Partners,France, VTT , High ,1734,250,12,20808,2288.88,18519.12,5202,13317.12
+ January ,2023,Enterprise,Mexico, VTT , High ,554,250,125,69250,7617.5,61632.5,66480,-4847.5
+ January ,2023,Enterprise,Germany, Amarilla , High ,3165,260,125,395625,43518.75,352106.25,379800,-27693.75
+ January ,2023,Government,Mexico, Amarilla , High ,2629,260,20,52580,5783.8,46796.2,26290,20506.2
+ January ,2023,Small Business,United States of America, Paseo , High ,3495,10,300,1048500,125820,922680,873750,48930
+ January ,2023,Government,France, Carretera , High ,2521.5,3,20,50430,6051.6,44378.4,25215,19163.4
+ January ,2023,Government,United States of America, Montana , High ,982.5,5,350,343875,44703.75,299171.25,255450,43721.25
+ January ,2023,Government,United States of America, Paseo , High ,1438.5,10,7,10069.5,1309.035,8760.465,7192.5,1567.965
+ January ,2023,Small Business,Germany, Paseo , High ,807,10,300,242100,31473,210627,201750,8877
+ January ,2023,Midmarket,France, Velo , High ,3997.5,120,15,59962.5,7795.125,52167.375,39975,12192.375
+ January ,2023,Enterprise,Canada, Amarilla , High ,1659,260,125,207375,26958.75,180416.25,199080,-18663.75
+ January ,2023,Government,Canada, Montana , High ,2227.5,5,350,779625,109147.5,670477.5,579150,91327.5
+ February ,2023,Government,Canada, Paseo , None ,292,10,20,5840,0,5840,2920,2920
+ February ,2023,Midmarket,Mexico, Paseo , None ,974,10,15,14610,0,14610,9740,4870
+ February ,2023,Enterprise,France, Velo , None ,1804,120,125,225500,0,225500,216480,9020
+ February ,2023,Small Business,Canada, VTT , None ,2001,250,300,600300,0,600300,500250,100050
+ February ,2023,Government,France, Amarilla , None ,2750,260,350,962500,0,962500,715000,247500
+ February ,2023,Midmarket,France, Paseo , Low ,2296,10,15,34440,344.4,34095.6,22960,11135.6
+ February ,2023,Channel Partners,United States of America, Carretera , Low ,1858,3,12,22296,222.96,22073.04,5574,16499.04
+ February ,2023,Midmarket,United States of America, Paseo , Low ,1514,10,15,22710,227.1,22482.9,15140,7342.9
+ February ,2023,Midmarket,Canada, Paseo , Low ,2363,10,15,35445,708.9,34736.1,23630,11106.1
+ February ,2023,Government,Germany, Montana , Low ,1958,5,7,13706,411.18,13294.82,9790,3504.82
+ February ,2023,Small Business,United States of America, VTT , Low ,2844,250,300,853200,25596,827604,711000,116604
+ February ,2023,Government,Mexico, Amarilla , Low ,1865,260,350,652750,26110,626640,484900,141740
+ February ,2023,Channel Partners,France, Carretera , Medium ,1865,3,12,22380,1119,21261,5595,15666
+ February ,2023,Channel Partners,Germany, Carretera , Medium ,1116,3,12,13392,669.6,12722.4,3348,9374.4
+ February ,2023,Government,France, Paseo , Medium ,1303,10,20,26060,1303,24757,13030,11727
+ February ,2023,Enterprise,Germany, Velo , Medium ,807,120,125,100875,5043.75,95831.25,96840,-1008.75
+ February ,2023,Government,Germany, Amarilla , Medium ,1350,260,350,472500,23625,448875,351000,97875
+ February ,2023,Enterprise,Canada, Velo , Medium ,952,120,125,119000,7140,111860,114240,-2380
+ February ,2023,Enterprise,United States of America, Velo , Medium ,2755,120,125,344375,20662.5,323712.5,330600,-6887.5
+ February ,2023,Channel Partners,Mexico, Carretera , Medium ,727,3,12,8724,610.68,8113.32,2181,5932.32
+ February ,2023,Small Business,France, VTT , Medium ,959,250,300,287700,20229,267561,239750,27811
+ February ,2023,Small Business,Mexico, VTT , Medium ,2747,250,300,824100,57687,766413,686750,79663
+ February ,2023,Government,Canada, Montana , Medium ,488,5,7,3416,273.28,3142.72,2440,702.72
+ February ,2023,Small Business,Germany, VTT , Medium ,2659,250,300,797700,71793,725907,664750,61157
+ February ,2023,Government,Canada, Amarilla , High ,2240,260,350,784000,78400,705600,582400,123200
+ February ,2023,Channel Partners,Canada, Carretera , High ,1937,3,12,23244,2556.84,20687.16,5811,14876.16
+ February ,2023,Government,United States of America, Amarilla , High ,270,260,350,94500,11340,83160,70200,12960
+ February ,2023,Government,United States of America, Montana , High ,1298,5,7,9086,1181.18,7904.82,6490,1414.82
+ February ,2023,Government,United States of America, Paseo , High ,2641,10,20,52820,6866.6,45953.4,26410,19543.4
+ February ,2023,Government,Germany, Paseo , High ,2708,10,20,54160,7040.8,47119.2,27080,20039.2
+ February ,2023,Government,France, Montana , High ,293,5,7,2051,287.14,1763.86,1465,298.86
+ February ,2023,Midmarket,Germany, Paseo , High ,278,10,15,4170,583.8,3586.2,2780,806.2
+ February ,2023,Government,Mexico, Paseo , High ,260,10,20,5200,728,4472,2600,1872
+ February ,2023,Enterprise,Mexico, Velo , High ,1575,120,125,196875,27562.5,169312.5,189000,-19687.5
+ February ,2023,Government,Mexico, Montana , High ,1368,5,7,9576,1436.4,8139.6,6840,1299.6
+ March ,2023,Midmarket,Germany, Montana , None ,921,5,15,13815,0,13815,9210,4605
+ March ,2023,Channel Partners,Germany, Velo , None ,2161,120,12,25932,0,25932,6483,19449
+ March ,2023,Government,Canada, VTT , Low ,1326,250,7,9282,92.82,9189.18,6630,2559.18
+ March ,2023,Government,Mexico, Carretera , Low ,1210,3,350,423500,4235,419265,314600,104665
+ March ,2023,Midmarket,Mexico, Montana , Low ,2214,5,15,33210,332.1,32877.9,22140,10737.9
+ March ,2023,Government,Germany, VTT , Low ,263,250,7,1841,18.41,1822.59,1315,507.59
+ March ,2023,Small Business,Germany, Amarilla , Low ,259,260,300,77700,1554,76146,64750,11396
+ March ,2023,Small Business,Mexico, Amarilla , Low ,1101,260,300,330300,6606,323694,275250,48444
+ March ,2023,Enterprise,Canada, Paseo , Low ,1774,10,125,221750,6652.5,215097.5,212880,2217.5
+ March ,2023,Midmarket,Canada, Montana , Low ,1967,5,15,29505,1180.2,28324.8,19670,8654.8
+ March ,2023,Enterprise,Germany, Paseo , Low ,795,10,125,99375,3975,95400,95400,0
+ March ,2023,Channel Partners,United States of America, Velo , Low ,1465,120,12,17580,703.2,16876.8,4395,12481.8
+ March ,2023,Enterprise,United States of America, Paseo , Medium ,2992,10,125,374000,18700,355300,359040,-3740
+ March ,2023,Enterprise,France, Paseo , Medium ,2385,10,125,298125,14906.25,283218.75,286200,-2981.25
+ March ,2023,Government,United States of America, Carretera , Medium ,1761,3,350,616350,43144.5,573205.5,457860,115345.5
+ March ,2023,Midmarket,France, Montana , Medium ,2501,5,15,37515,3001.2,34513.8,25010,9503.8
+ March ,2023,Enterprise,Mexico, Paseo , Medium ,1114,10,125,139250,11140,128110,133680,-5570
+ March ,2023,Channel Partners,Canada, Velo , Medium ,598,120,12,7176,574.08,6601.92,1794,4807.92
+ March ,2023,Government,United States of America, Paseo , Medium ,973,10,20,19460,1751.4,17708.6,9730,7978.6
+ March ,2023,Channel Partners,France, Velo , Medium ,1967,120,12,23604,2124.36,21479.64,5901,15578.64
+ March ,2023,Government,France, Paseo , High ,1954,10,20,39080,3908,35172,19540,15632
+ March ,2023,Small Business,United States of America, Amarilla , High ,2993,260,300,897900,89790,808110,748250,59860
+ March ,2023,Government,United States of America, VTT , High ,1579,250,7,11053,1215.83,9837.17,7895,1942.17
+ March ,2023,Government,Germany, Carretera , High ,792,3,350,277200,30492,246708,205920,40788
+ March ,2023,Government,Mexico, Paseo , High ,1122,10,20,22440,2468.4,19971.6,11220,8751.6
+ March ,2023,Midmarket,United States of America, Montana , High ,677,5,15,10155,1218.6,8936.4,6770,2166.4
+ March ,2023,Government,France, VTT , High ,1491,250,7,10437,1252.44,9184.56,7455,1729.56
+ March ,2023,Government,Canada, Carretera , High ,923,3,350,323050,41996.5,281053.5,239980,41073.5
+ March ,2023,Government,France, Carretera , High ,1790,3,350,626500,81445,545055,465400,79655
+ March ,2023,Government,Canada, Paseo , High ,2428,10,20,48560,6798.4,41761.6,24280,17481.6
+ March ,2023,Government,Mexico, VTT , High ,2903,250,7,20321,2844.94,17476.06,14515,2961.06
+ March ,2023,Small Business,Canada, Amarilla , High ,888,260,300,266400,37296,229104,222000,7104
+ March ,2023,Government,Germany, Paseo , High ,1158,10,20,23160,3474,19686,11580,8106
+ March ,2023,Channel Partners,Mexico, Velo , High ,500,120,12,6000,900,5100,1500,3600
+ March ,2023,Small Business,France, Amarilla , High ,2475,260,300,742500,111375,631125,618750,12375
+ April ,2023,Channel Partners,Germany, VTT , None ,2838,250,12,34056,0,34056,8514,25542
+ April ,2023,Channel Partners,United States of America, Amarilla , None ,1953,260,12,23436,0,23436,5859,17577
+ April ,2023,Enterprise,Germany, Amarilla , None ,4219.5,260,125,527437.5,0,527437.5,506340,21097.5
+ April ,2023,Small Business,United States of America, Montana , Low ,2301,5,300,690300,6903,683397,575250,108147
+ April ,2023,Government,United States of America, Paseo , Low ,4492.5,10,7,31447.5,314.475,31133.025,22462.5,8670.525
+ April ,2023,Government,France, Velo , Low ,3864,120,20,77280,772.8,76507.2,38640,37867.2
+ April ,2023,Government,Canada, VTT , Low ,943.5,250,350,330225,3302.25,326922.75,245310,81612.75
+ April ,2023,Enterprise,Canada, Carretera , Low ,742.5,3,125,92812.5,1856.25,90956.25,89100,1856.25
+ April ,2023,Enterprise,France, Carretera , Low ,4243.5,3,125,530437.5,15913.125,514524.375,509220,5304.375
+ April ,2023,Government,Germany, Carretera , Low ,2580,3,20,51600,1548,50052,25800,24252
+ April ,2023,Channel Partners,Mexico, VTT , Low ,1916,250,12,22992,689.76,22302.24,5748,16554.24
+ April ,2023,Government,Canada, Velo , Low ,3850.5,120,20,77010,2310.3,74699.7,38505,36194.7
+ April ,2023,Small Business,Germany, Paseo , Low ,1414.5,10,300,424350,16974,407376,353625,53751
+ April ,2023,Enterprise,Mexico, Amarilla , Low ,1074,260,125,134250,5370,128880,128880,0
+ April ,2023,Small Business,Mexico, Paseo , Medium ,1607,10,300,482100,24105,457995,401750,56245
+ April ,2023,Midmarket,France, Paseo , Medium ,3801,10,15,57015,3420.9,53594.1,38010,15584.1
+ April ,2023,Government,Mexico, Montana , Medium ,980,5,350,343000,20580,322420,254800,67620
+ April ,2023,Channel Partners,France, VTT , Medium ,1738.5,250,12,20862,1460.34,19401.66,5215.5,14186.16
+ April ,2023,Government,Germany, Paseo , Medium ,1259,10,7,8813,705.04,8107.96,6295,1812.96
+ April ,2023,Government,France, VTT , Medium ,574.5,250,350,201075,16086,184989,149370,35619
+ April ,2023,Small Business,Canada, Montana , Medium ,3802.5,5,300,1140750,102667.5,1038082.5,950625,87457.5
+ April ,2023,Midmarket,United States of America, Paseo , Medium ,3675,10,15,55125,4961.25,50163.75,36750,13413.75
+ April ,2023,Government,United States of America, VTT , Medium ,1351.5,250,350,473025,42572.25,430452.75,351390,79062.75
+ April ,2023,Midmarket,Mexico, Velo , Medium ,2628,120,15,39420,3547.8,35872.2,26280,9592.2
+ April ,2023,Enterprise,United States of America, Carretera , High ,3445.5,3,125,430687.5,43068.75,387618.75,413460,-25841.25
+ April ,2023,Midmarket,Germany, Velo , High ,510,120,15,7650,765,6885,5100,1785
+ April ,2023,Channel Partners,Canada, Amarilla , High ,3520.5,260,12,42246,4224.6,38021.4,10561.5,27459.9
+ April ,2023,Government,France, Paseo , High ,2532,10,7,17724,1949.64,15774.36,12660,3114.36
+ April ,2023,Small Business,France, Montana , High ,1773,5,300,531900,63828,468072,443250,24822
+ April ,2023,Government,Mexico, Carretera , High ,2579,3,20,51580,7221.2,44358.8,25790,18568.8
+ April ,2023,Government,Germany, Montana , High ,1199,5,350,419650,58751,360899,311740,49159
+ April ,2023,Government,United States of America, Velo , High ,606,120,20,12120,1696.8,10423.2,6060,4363.2
+ April ,2023,Midmarket,Canada, Paseo , High ,1614,10,15,24210,3631.5,20578.5,16140,4438.5
+ April ,2023,Government,Mexico, Paseo , High ,2535,10,7,17745,2661.75,15083.25,12675,2408.25
+ April ,2023,Government,Canada, Paseo , High ,723,10,7,5061,759.15,4301.85,3615,686.85
+ May ,2023,Government,France, Paseo , Low ,1030,10,7,7210,72.1,7137.9,5150,1987.9
+ May ,2023,Government,Mexico, Velo , Low ,362,120,7,2534,25.34,2508.66,1810,698.66
+ May ,2023,Small Business,France, Paseo , Low ,918,10,300,275400,5508,269892,229500,40392
+ May ,2023,Small Business,Germany, Paseo , Low ,1728,10,300,518400,10368,508032,432000,76032
+ May ,2023,Enterprise,Germany, Amarilla , Low ,2276,260,125,284500,5690,278810,273120,5690
+ May ,2023,Government,Canada, Carretera , Low ,831,3,20,16620,498.6,16121.4,8310,7811.4
+ May ,2023,Small Business,United States of America, Paseo , Low ,2918,10,300,875400,35016,840384,729500,110884
+ May ,2023,Channel Partners,France, VTT , Low ,866,250,12,10392,415.68,9976.32,2598,7378.32
+ May ,2023,Government,France, Carretera , Medium ,1563,3,20,31260,1563,29697,15630,14067
+ May ,2023,Government,United States of America, Paseo , Medium ,2327,10,7,16289,814.45,15474.55,11635,3839.55
+ May ,2023,Government,Germany, Montana , Medium ,1460,5,350,511000,30660,480340,379600,100740
+ May ,2023,Midmarket,Germany, Velo , Medium ,1530,120,15,22950,1377,21573,15300,6273
+ May ,2023,Midmarket,Canada, Velo , Medium ,1262,120,15,18930,1325.1,17604.9,12620,4984.9
+ May ,2023,Small Business,Canada, Paseo , Medium ,1702,10,300,510600,35742,474858,425500,49358
+ May ,2023,Enterprise,Canada, Amarilla , Medium ,1645,260,125,205625,14393.75,191231.25,197400,-6168.75
+ May ,2023,Government,Canada, Paseo , Medium ,257,10,7,1799,143.92,1655.08,1285,370.08
+ May ,2023,Government,Germany, Paseo , Medium ,1095,10,7,7665,613.2,7051.8,5475,1576.8
+ May ,2023,Government,France, Montana , Medium ,1666,5,350,583100,52479,530621,433160,97461
+ May ,2023,Midmarket,Mexico, Velo , Medium ,245,120,15,3675,330.75,3344.25,2450,894.25
+ May ,2023,Channel Partners,Germany, VTT , Medium ,880,250,12,10560,950.4,9609.6,2640,6969.6
+ May ,2023,Government,Germany, Carretera , Medium ,663,3,20,13260,1193.4,12066.6,6630,5436.6
+ May ,2023,Government,United States of America, Montana , High ,2313,5,350,809550,80955,728595,601380,127215
+ May ,2023,Small Business,Mexico, Paseo , High ,591,10,300,177300,17730,159570,147750,11820
+ May ,2023,Midmarket,United States of America, Velo , High ,790,120,15,11850,1185,10665,7900,2765
+ May ,2023,Enterprise,Mexico, VTT , High ,341,250,125,42625,4262.5,38362.5,40920,-2557.5
+ May ,2023,Government,Mexico, Amarilla , High ,2039,260,20,40780,4078,36702,20390,16312
+ May ,2023,Enterprise,France, Amarilla , High ,1433,260,125,179125,19703.75,159421.25,171960,-12538.75
+ May ,2023,Channel Partners,Canada, VTT , High ,2109,250,12,25308,3036.96,22271.04,6327,15944.04
+ May ,2023,Channel Partners,Mexico, Montana , High ,2661,5,12,31932,3831.84,28100.16,7983,20117.16
+ May ,2023,Government,United States of America, Carretera , High ,1743,3,20,34860,4880.4,29979.6,17430,12549.6
+ May ,2023,Government,Canada, Montana , High ,200,5,350,70000,9800,60200,52000,8200
+ May ,2023,Enterprise,United States of America, Amarilla , High ,2844,260,125,355500,49770,305730,341280,-35550
+ May ,2023,Government,Mexico, Paseo , High ,2851,10,350,997850,149677.5,848172.5,741260,106912.5
+ May ,2023,Midmarket,France, Velo , High ,2826,120,15,42390,6358.5,36031.5,28260,7771.5
+ May ,2023,Channel Partners,United States of America, VTT , High ,1806,250,12,21672,3250.8,18421.2,5418,13003.2
+ June ,2023,Midmarket,France, Carretera , None ,2178,3,15,32670,0,32670,21780,10890
+ June ,2023,Midmarket,Germany, Carretera , None ,888,3,15,13320,0,13320,8880,4440
+ June ,2023,Midmarket,Mexico, Carretera , None ,2470,3,15,37050,0,37050,24700,12350
+ June ,2023,Channel Partners,Canada, Montana , None ,2518,5,12,30216,0,30216,7554,22662
+ June ,2023,Government,France, Montana , None ,1899,5,20,37980,0,37980,18990,18990
+ June ,2023,Channel Partners,Germany, Montana , None ,1545,5,12,18540,0,18540,4635,13905
+ June ,2023,Midmarket,Mexico, Montana , None ,2470,5,15,37050,0,37050,24700,12350
+ June ,2023,Channel Partners,Canada, Paseo , None ,2518,10,12,30216,0,30216,7554,22662
+ June ,2023,Government,Germany, Paseo , None ,1006,10,350,352100,0,352100,261560,90540
+ June ,2023,Government,Germany, Velo , None ,1006,120,350,352100,0,352100,261560,90540
+ June ,2023,Channel Partners,Germany, Velo , None ,1545,120,12,18540,0,18540,4635,13905
+ June ,2023,Midmarket,France, VTT , None ,2178,250,15,32670,0,32670,21780,10890
+ June ,2023,Midmarket,Germany, VTT , None ,888,250,15,13320,0,13320,8880,4440
+ June ,2023,Government,France, Amarilla , None ,1899,260,20,37980,0,37980,18990,18990
+ June ,2023,Enterprise,United States of America, Paseo , Low ,727,10,125,90875,908.75,89966.25,87240,2726.25
+ June ,2023,Enterprise,France, Paseo , Low ,787,10,125,98375,983.75,97391.25,94440,2951.25
+ June ,2023,Enterprise,United States of America, VTT , Low ,727,250,125,90875,908.75,89966.25,87240,2726.25
+ June ,2023,Enterprise,France, VTT , Low ,787,250,125,98375,983.75,97391.25,94440,2951.25
+ June ,2023,Channel Partners,United States of America, Montana , Low ,1142,5,12,13704,274.08,13429.92,3426,10003.92
+ June ,2023,Channel Partners,United States of America, Paseo , Low ,1142,10,12,13704,274.08,13429.92,3426,10003.92
+ June ,2023,Enterprise,Mexico, Paseo , Low ,662,10,125,82750,1655,81095,79440,1655
+ June ,2023,Enterprise,Mexico, VTT , Low ,662,250,125,82750,1655,81095,79440,1655
+ June ,2023,Small Business,Germany, Carretera , Low ,689,3,300,206700,6201,200499,172250,28249
+ June ,2023,Channel Partners,France, Montana , Low ,1901,5,12,22812,684.36,22127.64,5703,16424.64
+ June ,2023,Channel Partners,France, Paseo , Low ,1901,10,12,22812,684.36,22127.64,5703,16424.64
+ June ,2023,Small Business,Germany, Paseo , Low ,689,10,300,206700,6201,200499,172250,28249
+ June ,2023,Enterprise,Germany, Paseo , Low ,1570,10,125,196250,5887.5,190362.5,188400,1962.5
+ June ,2023,Enterprise,Germany, VTT , Low ,1570,250,125,196250,5887.5,190362.5,188400,1962.5
+ June ,2023,Small Business,United States of America, Carretera , Medium ,991,3,300,297300,14865,282435,247750,34685
+ June ,2023,Small Business,United States of America, Paseo , Medium ,991,10,300,297300,14865,282435,247750,34685
+ June ,2023,Government,United States of America, Paseo , Medium ,602,10,350,210700,10535,200165,156520,43645
+ June ,2023,Government,United States of America, Velo , Medium ,602,120,350,210700,10535,200165,156520,43645
+ June ,2023,Midmarket,Canada, Carretera , Medium ,2844,3,15,42660,2559.6,40100.4,28440,11660.4
+ June ,2023,Government,France, Paseo , Medium ,1496,10,350,523600,31416,492184,388960,103224
+ June ,2023,Government,France, Velo , Medium ,1496,120,350,523600,31416,492184,388960,103224
+ June ,2023,Government,Mexico, Velo , Medium ,1498,120,7,10486,629.16,9856.84,7490,2366.84
+ June ,2023,Midmarket,Canada, VTT , Medium ,2844,250,15,42660,2559.6,40100.4,28440,11660.4
+ June ,2023,Government,Mexico, VTT , Medium ,1498,250,7,10486,629.16,9856.84,7490,2366.84
+ June ,2023,Government,Canada, Velo , Medium ,1135,120,7,7945,556.15,7388.85,5675,1713.85
+ June ,2023,Government,Canada, Amarilla , Medium ,1135,260,7,7945,556.15,7388.85,5675,1713.85
+ June ,2023,Small Business,France, Carretera , Medium ,448,3,300,134400,9408,124992,112000,12992
+ June ,2023,Small Business,France, Paseo , Medium ,448,10,300,134400,9408,124992,112000,12992
+ June ,2023,Government,United States of America, Montana , Medium ,1282,5,20,25640,2051.2,23588.8,12820,10768.8
+ June ,2023,Government,United States of America, Amarilla , Medium ,1282,260,20,25640,2051.2,23588.8,12820,10768.8
+ June ,2023,Government,Canada, Montana , Medium ,708,5,20,14160,1132.8,13027.2,7080,5947.2
+ June ,2023,Government,Germany, Paseo , Medium ,1366,10,20,27320,2185.6,25134.4,13660,11474.4
+ June ,2023,Small Business,Mexico, Paseo , Medium ,2460,10,300,738000,59040,678960,615000,63960
+ June ,2023,Government,United States of America, Velo , Medium ,2907,120,7,20349,1627.92,18721.08,14535,4186.08
+ June ,2023,Government,Germany, Velo , Medium ,2338,120,7,16366,1309.28,15056.72,11690,3366.72
+ June ,2023,Government,Germany, VTT , Medium ,2338,250,7,16366,1309.28,15056.72,11690,3366.72
+ June ,2023,Government,Canada, Amarilla , Medium ,708,260,20,14160,1132.8,13027.2,7080,5947.2
+ June ,2023,Government,United States of America, Amarilla , Medium ,2907,260,7,20349,1627.92,18721.08,14535,4186.08
+ June ,2023,Government,Germany, Amarilla , Medium ,1366,260,20,27320,2185.6,25134.4,13660,11474.4
+ June ,2023,Small Business,Mexico, Amarilla , Medium ,2460,260,300,738000,59040,678960,615000,63960
+ June ,2023,Small Business,Canada, Carretera , Medium ,1094,3,300,328200,29538,298662,273500,25162
+ June ,2023,Small Business,Canada, Paseo , Medium ,1094,10,300,328200,29538,298662,273500,25162
+ June ,2023,Government,Mexico, Paseo , Medium ,1038,10,20,20760,1868.4,18891.6,10380,8511.6
+ June ,2023,Government,Mexico, Amarilla , Medium ,1038,260,20,20760,1868.4,18891.6,10380,8511.6
+ June ,2023,Government,Mexico, Carretera , High ,886,3,350,310100,37212,272888,230360,42528
+ June ,2023,Government,Mexico, Paseo , High ,886,10,350,310100,37212,272888,230360,42528
+ June ,2023,Midmarket,United States of America, Carretera , High ,2567,3,15,38505,5005.65,33499.35,25670,7829.35
+ June ,2023,Midmarket,United States of America, VTT , High ,2567,250,15,38505,5005.65,33499.35,25670,7829.35
+ June ,2023,Channel Partners,Mexico, Montana , High ,604,5,12,7248,942.24,6305.76,1812,4493.76
+ June ,2023,Government,Canada, Paseo , High ,2632,10,350,921200,119756,801444,684320,117124
+ June ,2023,Enterprise,Canada, Paseo , High ,1583,10,125,197875,25723.75,172151.25,189960,-17808.75
+ June ,2023,Government,Canada, Velo , High ,2632,120,350,921200,119756,801444,684320,117124
+ June ,2023,Government,France, Velo , High ,1190,120,7,8330,1082.9,7247.1,5950,1297.1
+ June ,2023,Channel Partners,Mexico, Velo , High ,604,120,12,7248,942.24,6305.76,1812,4493.76
+ June ,2023,Enterprise,Canada, VTT , High ,1583,250,125,197875,25723.75,172151.25,189960,-17808.75
+ June ,2023,Government,France, Amarilla , High ,1190,260,7,8330,1082.9,7247.1,5950,1297.1
+ July ,2023,Enterprise,Canada, Montana , None ,2665.5,5,125,333187.5,0,333187.5,319860,13327.5
+ July ,2023,Channel Partners,Germany, Paseo , None ,367,10,12,4404,0,4404,1101,3303
+ July ,2023,Government,Germany, Amarilla , None ,1686,260,7,11802,0,11802,8430,3372
+ July ,2023,Government,United States of America, Carretera , Low ,2529,3,7,17703,177.03,17525.97,12645,4880.97
+ July ,2023,Government,France, Montana , Low ,1375.5,5,20,27510,275.1,27234.9,13755,13479.9
+ July ,2023,Enterprise,Mexico, Paseo , Low ,1823,10,125,227875,2278.75,225596.25,218760,6836.25
+ July ,2023,Channel Partners,United States of America, Paseo , Low ,1369.5,10,12,16434,493.02,15940.98,4108.5,11832.48
+ July ,2023,Government,United States of America, Paseo , Low ,3450,10,350,1207500,48300,1159200,897000,262200
+ July ,2023,Enterprise,France, Paseo , Low ,2988,10,125,373500,14940,358560,358560,0
+ July ,2023,Government,Mexico, Amarilla , Medium ,1683,260,7,11781,589.05,11191.95,8415,2776.95
+ July ,2023,Enterprise,United States of America, Montana , Medium ,3627,5,125,453375,22668.75,430706.25,435240,-4533.75
+ July ,2023,Enterprise,Germany, Paseo , Medium ,3513,10,125,439125,30738.75,408386.25,421560,-13173.75
+ July ,2023,Small Business,France, Velo , Medium ,1659,120,300,497700,34839,462861,414750,48111
+ July ,2023,Government,Germany, Montana , Medium ,645,5,20,12900,1032,11868,6450,5418
+ July ,2023,Government,United States of America, VTT , Medium ,436.5,250,20,8730,698.4,8031.6,4365,3666.6
+ July ,2023,Small Business,Canada, Velo , Medium ,3793.5,120,300,1138050,102424.5,1035625.5,948375,87250.5
+ July ,2023,Government,Germany, Velo , Medium ,1307,120,350,457450,41170.5,416279.5,339820,76459.5
+ July ,2023,Government,Canada, Carretera , Medium ,819,3,7,5733,515.97,5217.03,4095,1122.03
+ July ,2023,Midmarket,Canada, Amarilla , Medium ,1630.5,260,15,24457.5,2201.175,22256.325,16305,5951.325
+ July ,2023,Government,France, Velo , High ,639,120,350,223650,22365,201285,166140,35145
+ July ,2023,Midmarket,Mexico, VTT , High ,641,250,15,9615,961.5,8653.5,6410,2243.5
+ July ,2023,Midmarket,United States of America, Amarilla , High ,3199.5,260,15,47992.5,5279.175,42713.325,31995,10718.325
+ July ,2023,Small Business,Germany, Carretera , High ,2811,3,300,843300,92763,750537,702750,47787
+ July ,2023,Government,Canada, Paseo , High ,2104.5,10,350,736575,81023.25,655551.75,547170,108381.75
+ July ,2023,Channel Partners,Canada, Paseo , High ,4026,10,12,48312,5314.32,42997.68,12078,30919.68
+ July ,2023,Channel Partners,France, Paseo , High ,2425.5,10,12,29106,3201.66,25904.34,7276.5,18627.84
+ July ,2023,Government,Mexico, Velo , High ,1395,120,350,488250,58590,429660,362700,66960
+ July ,2023,Midmarket,France, VTT , High ,3874.5,250,15,58117.5,6974.1,51143.4,38745,12398.4
+ July ,2023,Government,France, Amarilla , High ,3421.5,260,7,23950.5,2874.06,21076.44,17107.5,3968.94
+ July ,2023,Government,Mexico, Montana , High ,2255,5,20,45100,5863,39237,22550,16687
+ July ,2023,Channel Partners,Mexico, Paseo , High ,571,10,12,6852,890.76,5961.24,1713,4248.24
+ July ,2023,Small Business,Mexico, Carretera , High ,801,3,300,240300,33642,206658,200250,6408
+ July ,2023,Small Business,United States of America, Velo , High ,2460,120,300,738000,103320,634680,615000,19680
+ July ,2023,Government,Canada, VTT , High ,865.5,250,20,17310,2596.5,14713.5,8655,6058.5
+ July ,2023,Midmarket,Germany, VTT , High ,492,250,15,7380,1107,6273,4920,1353
+ August ,2023,Small Business,Mexico, Montana , None ,958,5,300,287400,0,287400,239500,47900
+ August ,2023,Government,Mexico, Paseo , None ,883,10,7,6181,0,6181,4415,1766
+ August ,2023,Enterprise,United States of America, Velo , None ,2821,120,125,352625,0,352625,338520,14105
+ August ,2023,Channel Partners,United States of America, Amarilla , None ,2141,260,12,25692,0,25692,6423,19269
+ August ,2023,Government,Canada, Montana , Low ,1830,5,7,12810,128.1,12681.9,9150,3531.9
+ August ,2023,Enterprise,Canada, Velo , Low ,923,120,125,115375,1153.75,114221.25,110760,3461.25
+ August ,2023,Small Business,Canada, VTT , Low ,1874,250,300,562200,16866,545334,468500,76834
+ August ,2023,Government,Mexico, VTT , Low ,1642,250,350,574700,17241,557459,426920,130539
+ August ,2023,Small Business,Germany, Montana , Low ,1859,5,300,557700,22308,535392,464750,70642
+ August ,2023,Channel Partners,Mexico, Amarilla , Medium ,1123,260,12,13476,673.8,12802.2,3369,9433.2
+ August ,2023,Government,United States of America, Velo , Medium ,2832,120,20,56640,2832,53808,28320,25488
+ August ,2023,Government,France, Velo , Medium ,1579,120,20,31580,1579,30001,15790,14211
+ August ,2023,Government,Canada, Amarilla , Medium ,552,260,350,193200,9660,183540,143520,40020
+ August ,2023,Midmarket,United States of America, Paseo , Medium ,2198,10,15,32970,1978.2,30991.8,21980,9011.8
+ August ,2023,Midmarket,Germany, Paseo , Medium ,1743,10,15,26145,1568.7,24576.3,17430,7146.3
+ August ,2023,Government,Germany, Velo , Medium ,1001,120,20,20020,1201.2,18818.8,10010,8808.8
+ August ,2023,Channel Partners,Canada, Carretera , Medium ,1884,3,12,22608,1582.56,21025.44,5652,15373.44
+ August ,2023,Midmarket,France, Paseo , Medium ,2101,10,15,31515,2206.05,29308.95,21010,8298.95
+ August ,2023,Government,Mexico, Velo , Medium ,609,120,20,12180,852.6,11327.4,6090,5237.4
+ August ,2023,Enterprise,Mexico, Carretera , Medium ,1540,3,125,192500,15400,177100,184800,-7700
+ August ,2023,Small Business,France, Montana , Medium ,1562,5,300,468600,37488,431112,390500,40612
+ August ,2023,Government,United States of America, Paseo , Medium ,678,10,7,4746,379.68,4366.32,3390,976.32
+ August ,2023,Government,Germany, Paseo , Medium ,1598,10,7,11186,894.88,10291.12,7990,2301.12
+ August ,2023,Government,France, VTT , Medium ,381,250,350,133350,10668,122682,99060,23622
+ August ,2023,Government,Germany, VTT , Medium ,422,250,350,147700,11816,135884,109720,26164
+ August ,2023,Government,United States of America, VTT , High ,2807,250,350,982450,98245,884205,729820,154385
+ August ,2023,Channel Partners,Germany, Amarilla , High ,2574,260,12,30888,3088.8,27799.2,7722,20077.2
+ August ,2023,Government,Canada, Paseo , High ,2394,10,20,47880,5266.8,42613.2,23940,18673.2
+ August ,2023,Midmarket,Mexico, Paseo , High ,1984,10,15,29760,3273.6,26486.4,19840,6646.4
+ August ,2023,Government,France, Paseo , High ,2696,10,7,18872,2453.36,16418.64,13480,2938.64
+ August ,2023,Small Business,United States of America, VTT , High ,2541,250,300,762300,106722,655578,635250,20328
+ August ,2023,Channel Partners,France, Amarilla , High ,2475,260,12,29700,4158,25542,7425,18117
+ August ,2023,Enterprise,France, Carretera , High ,1174,3,125,146750,22012.5,124737.5,140880,-16142.5
+ August ,2023,Enterprise,Germany, Carretera , High ,2767,3,125,345875,51881.25,293993.75,332040,-38046.25
+ August ,2023,Midmarket,Canada, Paseo , High ,2559,10,15,38385,5757.75,32627.25,25590,7037.25
+ September ,2023,Government,Germany, Montana , None ,2146,5,7,15022,0,15022,10730,4292
+ September ,2023,Midmarket,Mexico, Paseo , None ,2472,10,15,37080,0,37080,24720,12360
+ September ,2023,Small Business,France, VTT , None ,2151,250,300,645300,0,645300,537750,107550
+ September ,2023,Channel Partners,Canada, Carretera , Low ,1445,3,12,17340,173.4,17166.6,4335,12831.6
+ September ,2023,Channel Partners,France, Carretera , Low ,2671,3,12,32052,320.52,31731.48,8013,23718.48
+ September ,2023,Midmarket,Germany, Paseo , Low ,747,10,15,11205,112.05,11092.95,7470,3622.95
+ September ,2023,Small Business,Germany, VTT , Low ,986,250,300,295800,2958,292842,246500,46342
+ September ,2023,Channel Partners,United States of America, Carretera , Low ,1947,3,12,23364,700.92,22663.08,5841,16822.08
+ September ,2023,Government,France, Montana , Low ,544,5,7,3808,114.24,3693.76,2720,973.76
+ September ,2023,Midmarket,Canada, Paseo , Low ,218,10,15,3270,130.8,3139.2,2180,959.2
+ September ,2023,Government,Canada, Paseo , Low ,2074,10,20,41480,1659.2,39820.8,20740,19080.8
+ September ,2023,Government,United States of America, Paseo , Low ,1056,10,20,21120,844.8,20275.2,10560,9715.2
+ September ,2023,Government,Germany, Amarilla , Low ,1907,260,350,667450,26698,640752,495820,144932
+ September ,2023,Midmarket,France, Paseo , Medium ,2620,10,15,39300,1965,37335,26200,11135
+ September ,2023,Channel Partners,Mexico, Carretera , Medium ,562,3,12,6744,404.64,6339.36,1686,4653.36
+ September ,2023,Government,Mexico, Amarilla , Medium ,1679,260,350,587650,35259,552391,436540,115851
+ September ,2023,Government,France, Paseo , Medium ,1535,10,20,30700,2149,28551,15350,13201
+ September ,2023,Enterprise,Germany, Velo , Medium ,2087,120,125,260875,18261.25,242613.75,250440,-7826.25
+ September ,2023,Government,France, Amarilla , Medium ,2876,260,350,1006600,70462,936138,747760,188378
+ September ,2023,Government,Germany, Paseo , Medium ,1934,10,20,38680,3094.4,35585.6,19340,16245.6
+ September ,2023,Government,Mexico, Paseo , Medium ,2993,10,20,59860,4788.8,55071.2,29930,25141.2
+ September ,2023,Small Business,Canada, VTT , Medium ,2134,250,300,640200,51216,588984,533500,55484
+ September ,2023,Enterprise,Canada, Velo , Medium ,567,120,125,70875,6378.75,64496.25,68040,-3543.75
+ September ,2023,Enterprise,Mexico, Velo , Medium ,2110,120,125,263750,23737.5,240012.5,253200,-13187.5
+ September ,2023,Small Business,United States of America, VTT , Medium ,1867,250,300,560100,50409,509691,466750,42941
+ September ,2023,Government,United States of America, Amarilla , Medium ,2071,260,350,724850,65236.5,659613.5,538460,121153.5
+ September ,2023,Channel Partners,Germany, Carretera , Medium ,1580,3,12,18960,1706.4,17253.6,4740,12513.6
+ September ,2023,Government,United States of America, Montana , High ,2328,5,7,16296,1629.6,14666.4,11640,3026.4
+ September ,2023,Enterprise,United States of America, Velo , High ,1596,120,125,199500,19950,179550,191520,-11970
+ September ,2023,Small Business,Mexico, VTT , High ,432,250,300,129600,12960,116640,108000,8640
+ September ,2023,Government,Canada, Amarilla , High ,707,260,350,247450,24745,222705,183820,38885
+ September ,2023,Government,Mexico, Montana , High ,2420,5,7,16940,2032.8,14907.2,12100,2807.2
+ September ,2023,Midmarket,United States of America, Paseo , High ,1767,10,15,26505,3710.7,22794.3,17670,5124.3
+ September ,2023,Government,Canada, Montana , High ,388,5,7,2716,380.24,2335.76,1940,395.76
+ September ,2023,Enterprise,France, Velo , High ,663,120,125,82875,12431.25,70443.75,79560,-9116.25
+ October ,2023,Government,United States of America, Paseo , None ,1143,10,7,8001,0,8001,5715,2286
+ October ,2023,Government,United States of America, Amarilla , None ,1143,260,7,8001,0,8001,5715,2286
+ October ,2023,Government,Mexico, Carretera , Low ,1397,3,350,488950,4889.5,484060.5,363220,120840.5
+ October ,2023,Government,Mexico, VTT , Low ,1397,250,350,488950,4889.5,484060.5,363220,120840.5
+ October ,2023,Channel Partners,Canada, Carretera , Low ,1295,3,12,15540,310.8,15229.2,3885,11344.2
+ October ,2023,Government,United States of America, Montana , Low ,1566,5,20,31320,626.4,30693.6,15660,15033.6
+ October ,2023,Channel Partners,Canada, Paseo , Low ,1295,10,12,15540,310.8,15229.2,3885,11344.2
+ October ,2023,Government,United States of America, Velo , Low ,1566,120,20,31320,626.4,30693.6,15660,15033.6
+ October ,2023,Government,Germany, Velo , Low ,2877,120,350,1006950,20229,986811,748020,238791
+ October ,2023,Government,Germany, VTT , Low ,2877,250,350,1006950,20229,986811,748020,238791
+ October ,2023,Enterprise,Canada, Paseo , Low ,2009,10,125,251125,7533.75,243591.25,241080,2511.25
+ October ,2023,Enterprise,Canada, Velo , Low ,2009,120,125,251125,7533.75,243591.25,241080,2511.25
+ October ,2023,Midmarket,Mexico, Montana , Low ,2031,5,15,30465,1218.6,29246.4,20310,8936.4
+ October ,2023,Midmarket,Mexico, Paseo , Low ,2031,10,15,30465,1218.6,29246.4,20310,8936.4
+ October ,2023,Small Business,Germany, Carretera , Low ,2021,3,300,606300,24252,582048,505250,76798
+ October ,2023,Small Business,Germany, Montana , Low ,2021,5,300,606300,24252,582048,505250,76798
+ October ,2023,Government,France, Velo , Low ,2177,120,350,761950,30478,731472,566020,165452
+ October ,2023,Government,France, VTT , Low ,2177,250,350,761950,30478,731472,566020,165452
+ October ,2023,Government,Mexico, Paseo , Medium ,2689,10,7,18823,941.15,17881.85,13445,4436.85
+ October ,2023,Government,Mexico, VTT , Medium ,2689,250,7,18823,941.15,17881.85,13445,4436.85
+ October ,2023,Enterprise,United States of America, Paseo , Medium ,861,10,125,107625,5381.25,102243.75,103320,-1076.25
+ October ,2023,Enterprise,United States of America, Velo , Medium ,861,120,125,107625,5381.25,102243.75,103320,-1076.25
+ October ,2023,Midmarket,United States of America, Paseo , Medium ,1153,10,15,17295,1037.7,16257.3,11530,4727.3
+ October ,2023,Midmarket,United States of America, VTT , Medium ,1153,250,15,17295,1037.7,16257.3,11530,4727.3
+ October ,2023,Small Business,France, Carretera , Medium ,2181,3,300,654300,45801,608499,545250,63249
+ October ,2023,Government,France, Montana , Medium ,1976,5,20,39520,2766.4,36753.6,19760,16993.6
+ October ,2023,Small Business,France, Montana , Medium ,2181,5,300,654300,45801,608499,545250,63249
+ October ,2023,Government,France, Velo , Medium ,1976,120,20,39520,2766.4,36753.6,19760,16993.6
+ October ,2023,Midmarket,France, Paseo , Medium ,1227,10,15,18405,1656.45,16748.55,12270,4478.55
+ October ,2023,Government,Canada, Velo , Medium ,1269,120,350,444150,39973.5,404176.5,329940,74236.5
+ October ,2023,Midmarket,France, VTT , Medium ,1227,250,15,18405,1656.45,16748.55,12270,4478.55
+ October ,2023,Government,Canada, Amarilla , Medium ,1269,260,350,444150,39973.5,404176.5,329940,74236.5
+ October ,2023,Government,Germany, Paseo , Medium ,360,10,7,2520,226.8,2293.2,1800,493.2
+ October ,2023,Government,Germany, VTT , Medium ,360,250,7,2520,226.8,2293.2,1800,493.2
+ October ,2023,Government,Germany, Paseo , High ,241,10,20,4820,482,4338,2410,1928
+ October ,2023,Government,Germany, Velo , High ,241,120,20,4820,482,4338,2410,1928
+ October ,2023,Channel Partners,Germany, Velo , High ,472,120,12,5664,623.04,5040.96,1416,3624.96
+ October ,2023,Channel Partners,Germany, Amarilla , High ,472,260,12,5664,623.04,5040.96,1416,3624.96
+ October ,2023,Enterprise,France, Carretera , High ,2441,3,125,305125,33563.75,271561.25,292920,-21358.75
+ October ,2023,Enterprise,France, Paseo , High ,2441,10,125,305125,33563.75,271561.25,292920,-21358.75
+ October ,2023,Enterprise,Mexico, Carretera , High ,2156,3,125,269500,32340,237160,258720,-21560
+ October ,2023,Government,Canada, Montana , High ,2734,5,7,19138,2296.56,16841.44,13670,3171.44
+ October ,2023,Enterprise,Mexico, Paseo , High ,2156,10,125,269500,32340,237160,258720,-21560
+ October ,2023,Government,Mexico, Paseo , High ,905,10,20,18100,2172,15928,9050,6878
+ October ,2023,Government,United States of America, Velo , High ,986,120,350,345100,41412,303688,256360,47328
+ October ,2023,Government,Mexico, Velo , High ,905,120,20,18100,2172,15928,9050,6878
+ October ,2023,Government,United States of America, VTT , High ,986,250,350,345100,41412,303688,256360,47328
+ October ,2023,Government,Canada, Amarilla , High ,2734,260,7,19138,2296.56,16841.44,13670,3171.44
+ October ,2023,Government,Canada, Montana , High ,1249,5,20,24980,3247.4,21732.6,12490,9242.6
+ October ,2023,Midmarket,Canada, Paseo , High ,1565,10,15,23475,3051.75,20423.25,15650,4773.25
+ October ,2023,Government,Canada, Paseo , High ,1249,10,20,24980,3247.4,21732.6,12490,9242.6
+ October ,2023,Channel Partners,Mexico, Velo , High ,410,120,12,4920,639.6,4280.4,1230,3050.4
+ October ,2023,Midmarket,Canada, VTT , High ,1565,250,15,23475,3051.75,20423.25,15650,4773.25
+ October ,2023,Channel Partners,Mexico, Amarilla , High ,410,260,12,4920,639.6,4280.4,1230,3050.4
+ October ,2023,Channel Partners,France, Paseo , High ,1393,10,12,16716,2340.24,14375.76,4179,10196.76
+ October ,2023,Channel Partners,France, Amarilla , High ,1393,260,12,16716,2340.24,14375.76,4179,10196.76
+ October ,2023,Small Business,Canada, Carretera , High ,1496,3,300,448800,62832,385968,374000,11968
+ October ,2023,Small Business,United States of America, Carretera , High ,1010,3,300,303000,42420,260580,252500,8080
+ October ,2023,Channel Partners,United States of America, Paseo , High ,2914,10,12,34968,4895.52,30072.48,8742,21330.48
+ October ,2023,Government,France, Paseo , High ,1731,10,7,12117,1696.38,10420.62,8655,1765.62
+ October ,2023,Small Business,Canada, VTT , High ,1496,250,300,448800,62832,385968,374000,11968
+ October ,2023,Small Business,United States of America, VTT , High ,1010,250,300,303000,42420,260580,252500,8080
+ October ,2023,Channel Partners,United States of America, Amarilla , High ,2914,260,12,34968,4895.52,30072.48,8742,21330.48
+ October ,2023,Government,France, Amarilla , High ,1731,260,7,12117,1696.38,10420.62,8655,1765.62
+ October ,2023,Enterprise,Germany, Carretera , High ,1085,3,125,135625,20343.75,115281.25,130200,-14918.75
+ October ,2023,Small Business,Mexico, Montana , High ,546,5,300,163800,24570,139230,136500,2730
+ October ,2023,Enterprise,Germany, Paseo , High ,1085,10,125,135625,20343.75,115281.25,130200,-14918.75
+ October ,2023,Midmarket,Germany, Paseo , High ,1175,10,15,17625,2643.75,14981.25,11750,3231.25
+ October ,2023,Midmarket,Germany, VTT , High ,1175,250,15,17625,2643.75,14981.25,11750,3231.25
+ October ,2023,Small Business,Mexico, Amarilla , High ,546,260,300,163800,24570,139230,136500,2730
+ November ,2023,Government,France, Velo , Low ,639,120,7,4473,44.73,4428.27,3195,1233.27
+ November ,2023,Small Business,United States of America, Paseo , Low ,2905,10,300,871500,8715,862785,726250,136535
+ November ,2023,Enterprise,France, VTT , Low ,1744,250,125,218000,2180,215820,209280,6540
+ November ,2023,Channel Partners,Mexico, Montana , Low ,690,5,12,8280,165.6,8114.4,2070,6044.4
+ November ,2023,Government,United States of America, Amarilla , Low ,1236,260,20,24720,494.4,24225.6,12360,11865.6
+ November ,2023,Government,France, Amarilla , Low ,941,260,20,18820,376.4,18443.6,9410,9033.6
+ November ,2023,Midmarket,Mexico, Carretera , Medium ,2791,3,15,41865,2093.25,39771.75,27910,11861.75
+ November ,2023,Channel Partners,Germany, Montana , Medium ,2342,5,12,28104,1405.2,26698.8,7026,19672.8
+ November ,2023,Midmarket,United States of America, Carretera , Medium ,2030,3,15,30450,1827,28623,20300,8323
+ November ,2023,Channel Partners,United States of America, Montana , Medium ,2723,5,12,32676,1960.56,30715.44,8169,22546.44
+ November ,2023,Government,Mexico, Velo , Medium ,1333,120,7,9331,559.86,8771.14,6665,2106.14
+ November ,2023,Channel Partners,France, Montana , Medium ,2342,5,12,28104,1967.28,26136.72,7026,19110.72
+ November ,2023,Government,United States of America, Velo , Medium ,547,120,7,3829,268.03,3560.97,2735,825.97
+ November ,2023,Government,Canada, Amarilla , Medium ,1118,260,20,22360,1565.2,20794.8,11180,9614.8
+ November ,2023,Midmarket,France, Carretera , Medium ,490,3,15,7350,588,6762,4900,1862
+ November ,2023,Government,Germany, Amarilla , Medium ,1520,260,20,30400,2432,27968,15200,12768
+ November ,2023,Channel Partners,Canada, Montana , Medium ,2321,5,12,27852,2506.68,25345.32,6963,18382.32
+ November ,2023,Small Business,France, Paseo , Medium ,1324,10,300,397200,35748,361452,331000,30452
+ November ,2023,Enterprise,Mexico, VTT , Medium ,877,250,125,109625,9866.25,99758.75,105240,-5481.25
+ November ,2023,Government,Mexico, Amarilla , Medium ,1694,260,20,33880,3049.2,30830.8,16940,13890.8
+ November ,2023,Government,Germany, Velo , High ,2665,120,7,18655,1865.5,16789.5,13325,3464.5
+ November ,2023,Enterprise,Canada, VTT , High ,2529,250,125,316125,31612.5,284512.5,303480,-18967.5
+ November ,2023,Small Business,Canada, Paseo , High ,1366,10,300,409800,45078,364722,341500,23222
+ November ,2023,Government,Canada, Velo , High ,1808,120,7,12656,1392.16,11263.84,9040,2223.84
+ November ,2023,Midmarket,Canada, Carretera , High ,2689,3,15,40335,4840.2,35494.8,26890,8604.8
+ November ,2023,Government,France, Paseo , High ,1594,10,350,557900,66948,490952,414440,76512
+ November ,2023,Small Business,Germany, Paseo , High ,1359,10,300,407700,48924,358776,339750,19026
+ November ,2023,Small Business,Mexico, Paseo , High ,2150,10,300,645000,77400,567600,537500,30100
+ November ,2023,Government,Mexico, Paseo , High ,1197,10,350,418950,50274,368676,311220,57456
+ November ,2023,Enterprise,United States of America, VTT , High ,2387,250,125,298375,35805,262570,286440,-23870
+ November ,2023,Government,Germany, Paseo , High ,357,10,350,124950,16243.5,108706.5,92820,15886.5
+ November ,2023,Midmarket,Germany, Carretera , High ,1513,3,15,22695,3177.3,19517.7,15130,4387.7
+ November ,2023,Government,Canada, Paseo , High ,700,10,350,245000,34300,210700,182000,28700
+ November ,2023,Government,United States of America, Paseo , High ,1177,10,350,411950,57673,354277,306020,48257
+ November ,2023,Enterprise,Germany, VTT , High ,552,250,125,69000,10350,58650,66240,-7590
+ December ,2023,Government,Germany, Carretera , None ,1513,3,350,529550,0,529550,393380,136170
+ December ,2023,Midmarket,United States of America, Montana , None ,615,5,15,9225,0,9225,6150,3075
+ December ,2023,Government,Canada, Paseo , None ,1817,10,20,36340,0,36340,18170,18170
+ December ,2023,Government,Germany, Paseo , None ,1513,10,350,529550,0,529550,393380,136170
+ December ,2023,Government,Canada, VTT , None ,1817,250,20,36340,0,36340,18170,18170
+ December ,2023,Midmarket,United States of America, Amarilla , None ,615,260,15,9225,0,9225,6150,3075
+ December ,2023,Government,France, Carretera , Low ,2155,3,350,754250,7542.5,746707.5,560300,186407.5
+ December ,2023,Government,France, Paseo , Low ,2155,10,350,754250,7542.5,746707.5,560300,186407.5
+ December ,2023,Government,Canada, Carretera , Low ,2852,3,350,998200,19964,978236,741520,236716
+ December ,2023,Small Business,Canada, Paseo , Low ,1916,10,300,574800,11496,563304,479000,84304
+ December ,2023,Government,Canada, Paseo , Low ,2852,10,350,998200,19964,978236,741520,236716
+ December ,2023,Enterprise,Canada, Paseo , Low ,2729,10,125,341125,6822.5,334302.5,327480,6822.5
+ December ,2023,Channel Partners,France, Paseo , Low ,1055,10,12,12660,253.2,12406.8,3165,9241.8
+ December ,2023,Channel Partners,Mexico, Paseo , Low ,1084,10,12,13008,260.16,12747.84,3252,9495.84
+ December ,2023,Channel Partners,France, Velo , Low ,1055,120,12,12660,253.2,12406.8,3165,9241.8
+ December ,2023,Channel Partners,Mexico, Velo , Low ,1084,120,12,13008,260.16,12747.84,3252,9495.84
+ December ,2023,Enterprise,Canada, VTT , Low ,2729,250,125,341125,6822.5,334302.5,327480,6822.5
+ December ,2023,Small Business,Canada, Amarilla , Low ,1916,260,300,574800,11496,563304,479000,84304
+ December ,2023,Enterprise,France, Montana , Low ,1287,5,125,160875,4826.25,156048.75,154440,1608.75
+ December ,2023,Enterprise,Germany, Montana , Low ,1706,5,125,213250,6397.5,206852.5,204720,2132.5
+ December ,2023,Enterprise,France, Paseo , Low ,1287,10,125,160875,4826.25,156048.75,154440,1608.75
+ December ,2023,Enterprise,Germany, Paseo , Low ,1706,10,125,213250,6397.5,206852.5,204720,2132.5
+ December ,2023,Government,United States of America, Carretera , Low ,274,3,350,95900,3836,92064,71240,20824
+ December ,2023,Enterprise,Mexico, Montana , Low ,1138,5,125,142250,5690,136560,136560,0
+ December ,2023,Government,United States of America, Paseo , Low ,274,10,350,95900,3836,92064,71240,20824
+ December ,2023,Enterprise,Mexico, Paseo , Low ,1138,10,125,142250,5690,136560,136560,0
+ December ,2023,Channel Partners,Canada, Paseo , Medium ,2431,10,12,29172,1458.6,27713.4,7293,20420.4
+ December ,2023,Channel Partners,Canada, Velo , Medium ,2431,120,12,29172,1458.6,27713.4,7293,20420.4
+ December ,2023,Government,United States of America, Carretera , Medium ,570,3,7,3990,199.5,3790.5,2850,940.5
+ December ,2023,Government,France, Carretera , Medium ,2487,3,7,17409,870.45,16538.55,12435,4103.55
+ December ,2023,Government,United States of America, Paseo , Medium ,2663,10,20,53260,2663,50597,26630,23967
+ December ,2023,Small Business,Germany, Velo , Medium ,1250,120,300,375000,18750,356250,312500,43750
+ December ,2023,Government,United States of America, VTT , Medium ,2663,250,20,53260,2663,50597,26630,23967
+ December ,2023,Government,United States of America, VTT , Medium ,570,250,7,3990,199.5,3790.5,2850,940.5
+ December ,2023,Government,France, VTT , Medium ,2487,250,7,17409,870.45,16538.55,12435,4103.55
+ December ,2023,Small Business,Germany, Amarilla , Medium ,1250,260,300,375000,18750,356250,312500,43750
+ December ,2023,Government,Canada, Velo , Medium ,1582,120,7,11074,775.18,10298.82,7910,2388.82
+ December ,2023,Government,Canada, VTT , Medium ,1582,250,7,11074,775.18,10298.82,7910,2388.82
+ December ,2023,Small Business,United States of America, Velo , Medium ,1372,120,300,411600,28812,382788,343000,39788
+ December ,2023,Small Business,United States of America, Amarilla , Medium ,1372,260,300,411600,28812,382788,343000,39788
+ December ,2023,Government,Mexico, Carretera , Medium ,1362,3,350,476700,38136,438564,354120,84444
+ December ,2023,Midmarket,Germany, Montana , Medium ,711,5,15,10665,853.2,9811.8,7110,2701.8
+ December ,2023,Government,Mexico, Paseo , Medium ,1362,10,350,476700,38136,438564,354120,84444
+ December ,2023,Small Business,Mexico, Velo , Medium ,635,120,300,190500,15240,175260,158750,16510
+ December ,2023,Midmarket,Germany, Amarilla , Medium ,711,260,15,10665,853.2,9811.8,7110,2701.8
+ December ,2023,Small Business,Mexico, Amarilla , Medium ,635,260,300,190500,15240,175260,158750,16510
+ December ,2023,Enterprise,United States of America, Montana , Medium ,2797,5,125,349625,31466.25,318158.75,335640,-17481.25
+ December ,2023,Enterprise,United States of America, Paseo , Medium ,2797,10,125,349625,31466.25,318158.75,335640,-17481.25
+ December ,2023,Government,Mexico, Carretera , Medium ,521,3,7,3647,328.23,3318.77,2605,713.77
+ December ,2023,Government,Mexico, VTT , Medium ,521,250,7,3647,328.23,3318.77,2605,713.77
+ December ,2023,Midmarket,France, Montana , High ,2072,5,15,31080,3108,27972,20720,7252
+ December ,2023,Small Business,France, Velo , High ,853,120,300,255900,25590,230310,213250,17060
+ December ,2023,Midmarket,France, Amarilla , High ,2072,260,15,31080,3108,27972,20720,7252
+ December ,2023,Small Business,France, Amarilla , High ,853,260,300,255900,25590,230310,213250,17060
+ December ,2023,Midmarket,Mexico, Montana , High ,2157,5,15,32355,3559.05,28795.95,21570,7225.95
+ December ,2023,Midmarket,Mexico, Amarilla , High ,2157,260,15,32355,3559.05,28795.95,21570,7225.95
+ December ,2023,Government,Mexico, Paseo , High ,1233,10,20,24660,2959.2,21700.8,12330,9370.8
+ December ,2023,Government,Mexico, VTT , High ,1233,250,20,24660,2959.2,21700.8,12330,9370.8
+ December ,2023,Government,Germany, Paseo , High ,1531,10,20,30620,3674.4,26945.6,15310,11635.6
+ December ,2023,Government,Germany, VTT , High ,1531,250,20,30620,3674.4,26945.6,15310,11635.6
+ December ,2023,Channel Partners,Germany, Paseo , High ,1013,10,12,12156,1580.28,10575.72,3039,7536.72
+ December ,2023,Channel Partners,Germany, Velo , High ,1013,120,12,12156,1580.28,10575.72,3039,7536.72
+ December ,2023,Government,Germany, Carretera , High ,280,3,7,1960,274.4,1685.6,1400,285.6
+ December ,2023,Government,Germany, VTT , High ,280,250,7,1960,274.4,1685.6,1400,285.6
+ December ,2023,Midmarket,Canada, Carretera , High ,2300,3,15,34500,4830,29670,23000,6670
+ December ,2023,Midmarket,Canada, Montana , High ,2300,5,15,34500,4830,29670,23000,6670
+ December ,2023,Channel Partners,United States of America, Paseo , High ,914,10,12,10968,1645.2,9322.8,2742,6580.8
+ December ,2023,Government,France, Paseo , High ,293,10,20,5860,879,4981,2930,2051
+ December ,2023,Channel Partners,United States of America, Velo , High ,914,120,12,10968,1645.2,9322.8,2742,6580.8
+ December ,2023,Government,France, VTT , High ,293,250,20,5860,879,4981,2930,2051
